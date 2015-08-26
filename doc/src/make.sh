@@ -79,21 +79,3 @@ cp $name.tex ${name}-plain-minted.tex
 
 
 
-# Publish
-dest=../pub
-if [ ! -d $dest/$name ]; then
-mkdir $dest/$name
-mkdir $dest/$name/pdf
-mkdir $dest/$name/html
-fi
-cp ${name}*.pdf $dest/$name/pdf
-cp -r ${name}*.html ._${name}*.html reveal.js $dest/$name/html
-
-# Figures: cannot just copy link, need to physically copy the files
-if [ -d fig-${name} ]; then
-if [ ! -d $dest/$name/html/fig-$name ]; then
-mkdir $dest/$name/html/fig-$name
-fi
-cp -r fig-${name}/* $dest/$name/html/fig-$name
-fi
-
