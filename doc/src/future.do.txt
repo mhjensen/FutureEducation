@@ -99,12 +99,12 @@ The standard situation we meet at an almost daily basis:
 * Emphasis on insight and understanding of fundamental principles and laws in the Sciences.
 * Be able to visualize, present, discuss, interpret and come with a critical analysis of the results, and develop a sound ethical attitude to own and other's work.
 
-Our education should reflect this. An example where this takes place is the "Computational Physics group at UiO":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html".  How did we implement the above visions? 
+Our education should reflect this. An example where this takes place is the "Computational Physics group at UiO":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html".  How can we implement in a systematic was a research-based education? 
 !eblock
 
 
 !split
-===== "Computational Physics group at UiO":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html"; implementing the vision =====
+===== "Computational Physics group at UiO":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html"; implementing our visions =====
 !bblock
 A particular strength of physics students is their ability to pose and
 solve problems that combine physical insights with mathematical tools
@@ -129,8 +129,9 @@ for the development of multi-disciplinary educational and research programs.
 ===== Developing a good learning environment =====
 !bblock
 * Our students have made significant contributions to  the "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/"  (UiO education prize in 2011) by developing exercises and participating in educational projects at the MN faculty
-* Our students have also developed educational tools like "tools and applications for understanding complicated physical problems":"http://www.mn.uio.no/fysikk/om/aktuelt/aktuelle-saker/2015/realfagsapper.html" 
+* Our students have also developed educational "tools and applications for understanding complicated physical problems":"http://www.mn.uio.no/fysikk/om/aktuelt/aktuelle-saker/2015/realfagsapper.html" 
 * The students keep shaping and developing the scientific, social and pedagogical activities of the group
+* A group of PhD students is now developing "new textbooks for Computational Life Science":"https://github.com/CINPLA/ibvcse"
 * During the last ten years more than 60 students have finalized their master theses in computational physics and  almost 60% have continued with PhD studies
 * Many students don't want to leave the group after finishing their studies
 !eblock
