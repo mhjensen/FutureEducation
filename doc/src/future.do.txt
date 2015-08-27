@@ -121,7 +121,7 @@ for the development of multi-disciplinary educational and research programs.
 * The computational physics group includes bachelor, master of science and doctoral students
 * Project oriented work where students develop and mature their own ideas, with an individually tailored approach to each students
 * Office space with desktops to every student and large common room for recreational activities (meals, common lunches, gaming, watching movies etc etc)
-* Many students collaborate on similar  thesis topics
+* Many students collaborate on similar  thesis topics and "publish in top scientific articles":"http://www.dn.no/talent/2014/06/12/Utdannelse/sommervikar-ble-toppforsker"
 !eblock
 
 
@@ -152,6 +152,15 @@ FIGURE: [fig-future/visualize.jpg, width=700 frac=0.7]
 FIGURE: [fig-future/uniforum-0.png, width=800 frac=0.7]  
 
 !eblock
+
+
+!split
+===== Undergraduate student publishes in PNAS =====
+!bblock Using research funds for visualization tools
+FIGURE: [fig-future/pnas.png, width=800 frac=0.7]  
+
+!eblock
+
 
 
 
