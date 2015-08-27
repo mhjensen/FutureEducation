@@ -276,14 +276,14 @@ The standard situation we meet at an almost daily basis:
 \end{itemize}
 
 \noindent
-Our education should reflect this. An example where this takes place is the \href{{http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html}}{Computational Physics group at UiO}.  How did we implement the above visions?
+Our education should reflect this. An example where this takes place is the \href{{http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html}}{Computational Physics group at UiO}.  How can we implement in a systematic was a research-based education?
 % --- end paragraph admon ---
 
 
 
 
 % !split
-\subsection{\href{{http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html}}{Computational Physics group at UiO}; implementing the vision}
+\subsection{\href{{http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html}}{Computational Physics group at UiO}; implementing our visions}
 
 % --- begin paragraph admon ---
 \paragraph{}
@@ -328,9 +328,11 @@ for the development of multi-disciplinary educational and research programs.
 \begin{itemize}
 \item Our students have made significant contributions to  the \href{{http://www.mn.uio.no/english/about/collaboration/cse/}}{Computing in Science Education}  (UiO education prize in 2011) by developing exercises and participating in educational projects at the MN faculty
 
-\item Our students have also developed educational tools like \href{{http://www.mn.uio.no/fysikk/om/aktuelt/aktuelle-saker/2015/realfagsapper.html}}{tools and applications for understanding complicated physical problems} 
+\item Our students have also developed educational \href{{http://www.mn.uio.no/fysikk/om/aktuelt/aktuelle-saker/2015/realfagsapper.html}}{tools and applications for understanding complicated physical problems} 
 
 \item The students keep shaping and developing the scientific, social and pedagogical activities of the group
+
+\item A group of PhD students is now developing \href{{https://github.com/CINPLA/ibvcse}}{new textbooks for Computational Life Science}
 
 \item During the last ten years more than 60 students have finalized their master theses in computational physics and  almost 60\% have continued with PhD studies
 
