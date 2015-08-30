@@ -1,6 +1,5 @@
 TITLE: Education for the future
 AUTHOR: Morten Hjorth-Jensen at Department of Physics, University of Oslo & Department of Physics and Astronomy, Michigan State University, USA
-#AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo and Simula Research Laboratory
 AUTHOR: Anders Malthe-Sørenssen at Department of Physics, University of Oslo
 DATE: September 2 2015, 
 
