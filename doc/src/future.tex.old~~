@@ -109,7 +109,23 @@ Education for the future
 
 
 \begin{center}
-{\bf Hans Petter Langtangen${}^{3}$} \\ [0mm]
+{\bf Anders Malthe-Sørenssen${}^{1}$} \\ [0mm]
+\end{center}
+
+\begin{center}
+% List of all institutions:
+\centerline{{\small ${}^1$Department of Physics, University of Oslo}}
+\centerline{{\small ${}^2$Department of Physics and Astronomy, Michigan State University, USA}}
+\end{center}
+    
+% ----------------- end author(s) -------------------------
+% AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo and Simula Research Laboratory
+
+
+% ----------------- author(s) -------------------------
+
+\begin{center}
+{\bf Morten Hjorth-Jensen${}^{1, 2}$} \\ [0mm]
 \end{center}
 
 
@@ -121,7 +137,6 @@ Education for the future
 % List of all institutions:
 \centerline{{\small ${}^1$Department of Physics, University of Oslo}}
 \centerline{{\small ${}^2$Department of Physics and Astronomy, Michigan State University, USA}}
-\centerline{{\small ${}^3$Department of Informatics, University of Oslo and Simula Research Laboratory}}
 \end{center}
     
 % ----------------- end author(s) -------------------------
@@ -156,25 +171,68 @@ The main topics of this talk are:
 
 % --- begin paragraph admon ---
 \paragraph{}
-
 \textbf{Computations of almost all systems in science are central to our
 basic understanding of nature and technological advances}.
-
-The increase in computational power,
-improved algorithms for solving problems in science as well as access
-to high-performance facilities, allow researchers nowadays to study
-complicated systems across many length and energy scales. Applications
-span from studying quantum physical systems in nanotechnology and the
-characteristics of new materials or subamotic physics at its smallest
-length scale, to simulating galaxies and the evolution of the universe.
-
-Simulations are key to understanding
-cancer treatment and how the brain works,
-predicting climate changes and this week's weather,
-simulating natural disasters, semi-conductor devices,
-quantum computers, as well as assessing risk in the insurance and
-financial industry.
 % --- end paragraph admon ---
+
+
+
+% --- begin paragraph admon ---
+\paragraph{Examples.}
+\begin{itemize}
+\item quantum physical systems in nanotechnology and the characteristics of new materials
+
+\item subamotic physics at its smallest length scale
+
+\item simulating galaxies and the evolution of the universe
+
+\item cancer treatment and how the brain works
+
+\item predicting climate changes and this week's weather
+
+\item simulating natural disasters
+
+\item semi-conductor devices, quantum computers,
+
+\item assessing risk in the insurance and financial industry
+
+\item and many many more
+\end{itemize}
+
+\noindent
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{Modeling and computations as a way to enhance algorithminc thinking}
+
+% --- begin paragraph admon ---
+\paragraph{}
+\textbf{Algorithm} : A finite set of unambiguous instructions that, given some set of initial conditions, can be performed in a prescribed sequence to achieve a certain goal.
+% --- end paragraph admon ---
+
+
+
+
+% --- begin paragraph admon ---
+\paragraph{Algorithmic  thinking as a way to.}
+
+\begin{itemize}
+\item Enhance instruction based teaching
+
+\item Introduce research-based teaching  from day one
+
+\item Trigger further insights in math and other disciplines 
+
+\item Validation and verification of scientific results, with the possibility to emphasize ethical aspects as well. Version control is central.
+
+\item Good working practices from day one.
+\end{itemize}
+
+\noindent
+% --- end paragraph admon ---
+
 
 
 
@@ -208,31 +266,6 @@ All these elements (and many more) aid students in maturing and gaining a better
 % --- end paragraph admon ---
 
 
-
-
-% !split
-\subsection{Modeling and computations as a way to enhance algorithminc thinking}
-
-% --- begin paragraph admon ---
-\paragraph{}
-
-Algorithmic  thinking as a way to
-
-\begin{itemize}
-\item Enhance instruction based teaching
-
-\item Introduce research-based teaching  from day one
-
-\item Trigger further insights in math and other disciplines 
-
-\item Validation and verification of scientific results, with the possibility to emphasize ethical aspects as well. Version control is central.
-
-\item Good working practices from day one.
-\end{itemize}
-
-\noindent
-\textbf{Algorithm} : A finite set of unambiguous instructions that, given some set of initial conditions, can be performed in a prescribed sequence to achieve a certain goal.
-% --- end paragraph admon ---
 
 
 
@@ -273,6 +306,8 @@ The standard situation we meet at an almost daily basis:
 \item Emphasis on insight and understanding of fundamental principles and laws in the Sciences.
 
 \item Be able to visualize, present, discuss, interpret and come with a critical analysis of the results, and develop a sound ethical attitude to own and other's work.
+
+\item Enhance reasoning about the scientific method
 \end{itemize}
 
 \noindent
@@ -304,7 +339,37 @@ for the development of multi-disciplinary educational and research programs.
 \paragraph{}
 \begin{itemize}
 \item The main aim is that students should realize their own potentials and creative power
+\begin{itemize}
 
+ \item Students come with different dreams, ambitions, aspirations and topics they wish to study, our approach is to tailor the education to all these aspects
+
+ \item Our motto is to foster students which are better than their supervisors. This is how we define progress
+
+ \item This creates an atmosphere for learning and sharing knowledge
+
+ \item The emphasis is on learning and getting new insights. Students and teachers help each other
+
+ \item This creates an enviroment where students with different backgrounds and needs can thrive socially and scientifically
+
+ \item No competing environment but a drive and enthusiam in sharing and developing new knowledge
+\end{itemize}
+
+\noindent
+\end{itemize}
+
+\noindent
+% --- end paragraph admon ---
+
+
+
+
+
+% !split
+\subsection{Develop a social, scientific and learning environment}
+
+% --- begin paragraph admon ---
+\paragraph{}
+\begin{itemize}
 \item The computational physics group includes bachelor, master of science and doctoral students
 
 \item Project oriented work where students develop and mature their own ideas, with an individually tailored approach to each students
@@ -316,6 +381,7 @@ for the development of multi-disciplinary educational and research programs.
 
 \noindent
 % --- end paragraph admon ---
+
 
 
 
@@ -399,11 +465,14 @@ for the development of multi-disciplinary educational and research programs.
 \paragraph{}
 Present and future problems, unlike traditional
 science and engineering, involve complex systems with many distinct
-physical processes. The wide open research topic of this century, both
-in industry and at universities, is how to effectively couple
-processes across different length and energy scales. Progress will
-rely on a multi-disciplinary approach and therefore the  need for
-multi-disciplinary educational and research programs.
+physical processes. 
+\begin{itemize}
+\item The wide open research topic of this century, both in industry and at universities, is how to effectively couple processes across different length and energy scales. 
+
+\item Progress will rely on a multi-disciplinary approach and therefore the  need for multi-disciplinary educational and research programs.
+\end{itemize}
+
+\noindent
 % --- end paragraph admon ---
 
 
@@ -480,14 +549,24 @@ approach to key strategic initiatives, with examples like \emph{Energy, Material
 
 % --- begin paragraph admon ---
 \paragraph{}
-Candidates who are capable of modeling and understanding complicated
-systems, are in short supply in society.  The
-computational methods and approaches to scientific problems students learn
+\textbf{Candidates who are capable of modeling and understanding complicated
+systems, are in short supply in society}.
+% --- end paragraph admon ---
+
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+The computational methods and approaches to scientific problems students learn
 when working on their thesis projects are very similar to the methods
-they will use in later stages of their careers.  To handle large
-numerical projects demands structured thinking and good analytical
-skills and a thorough understanding of the problems to be solved. This
-knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
+they will use in later stages of their careers.  
+\begin{itemize}
+\item To handle large numerical projects demands structured thinking and good analytical skills and a thorough understanding of the problems to be solved. 
+
+\item This knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
+\end{itemize}
+
+\noindent
 % --- end paragraph admon ---
 
 
@@ -545,13 +624,15 @@ Computations (mastering and developing)  will play a central role in almost all 
 \paragraph{}
 The insights, ideas and thoughts presented here, would have been impossible or difficult to gain without discussions, exchange of ideas and much more over many years with colleagues involved in the \href{{http://www.mn.uio.no/english/about/collaboration/cse/}}{Computing in Science Education} project at UiO. These dear friends and colleagues  are 
 \begin{itemize}
+\item Hans Petter Langtangen, Informatics and Simula Research Laboratory
+
 \item Knut Mørken, Mathematics
 
 \item Arnt Inge Vistnes, Physics
 
 \item Oyvind Ryan, Mathematics
 
-\item Solveig Kristensen, Dean of Education, MN faculty
+\item Solveig Kristensen and Annik Myhre, Deans of Education, MN faculty
 
 \item Hanne Sølna, Director of studies MN faculty
 \end{itemize}
