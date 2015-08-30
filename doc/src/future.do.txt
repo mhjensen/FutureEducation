@@ -1,6 +1,6 @@
 TITLE: Education for the future
 AUTHOR: Morten Hjorth-Jensen at Department of Physics, University of Oslo & Department of Physics and Astronomy, Michigan State University, USA
-AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo and Simula Research Laboratory
+#AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo and Simula Research Laboratory
 AUTHOR: Anders Malthe-Sørenssen at Department of Physics, University of Oslo
 DATE: September 2 2015, 
 
@@ -18,27 +18,38 @@ The main topics of this talk are:
 !split
 ===== The role of computations, from education to society =====
 !bblock
-
 _Computations of almost all systems in science are central to our
 basic understanding of nature and technological advances_.
+!eblock
+!bblock Examples
+* quantum physical systems in nanotechnology and the characteristics of new materials
+* subamotic physics at its smallest length scale
+* simulating galaxies and the evolution of the universe
+* cancer treatment and how the brain works
+* predicting climate changes and this week's weather
+* simulating natural disasters
+* semi-conductor devices, quantum computers,
+* assessing risk in the insurance and financial industry
+* and many many more
+!eblock
 
-The increase in computational power,
-improved algorithms for solving problems in science as well as access
-to high-performance facilities, allow researchers nowadays to study
-complicated systems across many length and energy scales. Applications
-span from studying quantum physical systems in nanotechnology and the
-characteristics of new materials or subamotic physics at its smallest
-length scale, to simulating galaxies and the evolution of the universe.
+!split
+===== Modeling and computations as a way to enhance algorithminc thinking =====
+!bblock 
+_Algorithm_ : A finite set of unambiguous instructions that, given some set of initial conditions, can be performed in a prescribed sequence to achieve a certain goal.
+!eblock
 
-Simulations are key to understanding
-cancer treatment and how the brain works,
-predicting climate changes and this week's weather,
-simulating natural disasters, semi-conductor devices,
-quantum computers, as well as assessing risk in the insurance and
-financial industry. 
+!bblock Algorithmic  thinking as a way to
+
+* Enhance instruction based teaching
+* Introduce research-based teaching  from day one
+* Trigger further insights in math and other disciplines 
+* Validation and verification of scientific results, with the possibility to emphasize ethical aspects as well. Version control is central.
+* Good working practices from day one.
 
 
 !eblock
+
 
 
 !split
@@ -60,20 +71,6 @@ All these elements (and many more) aid students in maturing and gaining a better
 !eblock
 
 
-!split
-===== Modeling and computations as a way to enhance algorithminc thinking =====
-!bblock 
-
-Algorithmic  thinking as a way to
-
-* Enhance instruction based teaching
-* Introduce research-based teaching  from day one
-* Trigger further insights in math and other disciplines 
-* Validation and verification of scientific results, with the possibility to emphasize ethical aspects as well. Version control is central.
-* Good working practices from day one.
-
-_Algorithm_ : A finite set of unambiguous instructions that, given some set of initial conditions, can be performed in a prescribed sequence to achieve a certain goal.
-!eblock
 
 
 
@@ -98,7 +95,8 @@ The standard situation we meet at an almost daily basis:
 * To be able to model complex systems with no simple answers. Solve real problems.
 * Emphasis on insight and understanding of fundamental principles and laws in the Sciences.
 * Be able to visualize, present, discuss, interpret and come with a critical analysis of the results, and develop a sound ethical attitude to own and other's work.
-
+* Enhance reasoning about the scientific method
+ 
 Our education should reflect this. An example where this takes place is the "Computational Physics group at UiO":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html".  How can we implement in a systematic was a research-based education? 
 !eblock
 
@@ -118,11 +116,25 @@ for the development of multi-disciplinary educational and research programs.
 ===== Develop a social, scientific and learning environment =====
 !bblock
 * The main aim is that students should realize their own potentials and creative power
+ * Students come with different dreams, ambitions, aspirations and topics they wish to study, our approach is to tailor the education to all these aspects
+ * Our motto is to foster students which are better than their supervisors. This is how we define progress
+ * This creates an atmosphere for learning and sharing knowledge
+ * The emphasis is on learning and getting new insights. Students and teachers help each other
+ * This creates an enviroment where students with different backgrounds and needs can thrive socially and scientifically
+ * No competing environment but a drive and enthusiam in sharing and developing new knowledge
+!eblock
+
+
+
+!split
+===== Develop a social, scientific and learning environment =====
+!bblock
 * The computational physics group includes bachelor, master of science and doctoral students
 * Project oriented work where students develop and mature their own ideas, with an individually tailored approach to each students
 * Office space with desktops to every student and large common room for recreational activities (meals, common lunches, gaming, watching movies etc etc)
 * Many students collaborate on similar  thesis topics and "publish in top scientific articles":"http://www.dn.no/talent/2014/06/12/Utdannelse/sommervikar-ble-toppforsker"
 !eblock
+
 
 
 !split
@@ -171,11 +183,9 @@ FIGURE: [fig-future/pnas.png, width=800 frac=0.7]
 !bblock
 Present and future problems, unlike traditional
 science and engineering, involve complex systems with many distinct
-physical processes. The wide open research topic of this century, both
-in industry and at universities, is how to effectively couple
-processes across different length and energy scales. Progress will
-rely on a multi-disciplinary approach and therefore the  need for
-multi-disciplinary educational and research programs.
+physical processes. 
+* The wide open research topic of this century, both in industry and at universities, is how to effectively couple processes across different length and energy scales. 
+* Progress will rely on a multi-disciplinary approach and therefore the  need for multi-disciplinary educational and research programs.
 !eblock
 
 !bblock
@@ -222,14 +232,15 @@ approach to key strategic initiatives, with examples like *Energy, Materials, Li
 !split
 ===== A new type of students =====
 !bblock
-Candidates who are capable of modeling and understanding complicated
-systems, are in short supply in society.  The
-computational methods and approaches to scientific problems students learn
+_Candidates who are capable of modeling and understanding complicated
+systems, are in short supply in society_.  
+!eblock
+!bblock
+The computational methods and approaches to scientific problems students learn
 when working on their thesis projects are very similar to the methods
-they will use in later stages of their careers.  To handle large
-numerical projects demands structured thinking and good analytical
-skills and a thorough understanding of the problems to be solved. This
-knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
+they will use in later stages of their careers.  
+* To handle large numerical projects demands structured thinking and good analytical skills and a thorough understanding of the problems to be solved. 
+* This knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
 !eblock
 
 !bblock
@@ -259,10 +270,11 @@ _The process must start now_ in order not to loose momentum.
 ===== The Computing in Science Education project, UiO educational prize in 2011  =====
 !bblock 
 The insights, ideas and thoughts presented here, would have been impossible or difficult to gain without discussions, exchange of ideas and much more over many years with colleagues involved in the "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" project at UiO. These dear friends and colleagues  are 
+* Hans Petter Langtangen, Informatics and Simula Research Laboratory
 * Knut Mørken, Mathematics
 * Arnt Inge Vistnes, Physics
 * Oyvind Ryan, Mathematics
-* Solveig Kristensen, Dean of Education, MN faculty
+* Solveig Kristensen and Annik Myhre, Deans of Education, MN faculty
 * Hanne Sølna, Director of studies MN faculty
 
 !eblock
