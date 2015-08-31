@@ -5,7 +5,7 @@ DATE: September 2 2015,
 
 
 !split
-===== This talk is about how we perceive the role of education; present and future =====
+===== This talk is about how we perceive the role of present and future education =====
 !bblock
 
 * _Research-based education_, from undergraduate studies to a PhD: "The Computational Physics group at the University of Oslo":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html" as example
