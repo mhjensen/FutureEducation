@@ -5,22 +5,23 @@ DATE: September 2 2015,
 
 
 !split
-===== This talk is about how we perceive the role of present and future education =====
+===== Present and future education =====
 !bblock
 
 * _Research-based education_, from undergraduate studies to a PhD: "The Computational Physics group at the University of Oslo":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html" as example
 * Future challenges and directions
 !eblock
 !bblock Takeaway message
-A successful research program cannot be disconnected from education and vice versa
+Excellent research mutually depends on excellent education.
+#A successful research program cannot be disconnected from education and vice versa
 !eblock
 
 !split
 ===== The role of computations, from education to society =====
-!bpop
+#!bpop
 !bblock
-_Computations of almost all systems in science are central to our
-basic understanding of nature and technological advances_.
+_Computations are central to our 
+basic understanding of nature and to technological advances_.
 !eblock
 
 !bblock Examples
@@ -32,12 +33,12 @@ basic understanding of nature and technological advances_.
 * _Finance_: assessing risk in the insurance and financial industry
 * and many many more
 !eblock
-!epop
+#!epop
 
 !split
 ===== Modeling and computations as a way to enhance algorithminc thinking =====
 
-!bpop
+#!bpop
 !bblock
 _Algorithm_ :
 A set of instructions to solve a problem.
@@ -52,7 +53,7 @@ A set of instructions to solve a problem.
 * Ensures good working practices from day one!
 
 !eblock
-!epop
+#!epop
 
 
 
@@ -83,22 +84,26 @@ All these elements (and many more) aid students in maturing and gaining a better
 !split
 ===== Computing and research-based education =====
 
-!bpop
+#!bpop
 !bblock
 A computational approach allows us to introduce research concepts and engage students in research from *day one*.
 !eblock
+
+# #ifdef NONE
 !bblock How do we define research-based education?
 It is fully integrated with a direct participation in actual research and builds upon established
 knowledge and insights about scientific methods.
 
 [hpl: Think this is unclear...better to just phrase it orally?]
 !eblock
-!epop
-
-
+#!epop
 
 !split
+
 ===== Research-based education =====
+
+# #endif
+
 
 !bblock What should the education contain?
 
@@ -118,11 +123,7 @@ This is what we do in the "Computational Physics group at UiO":"http://www.mn.ui
 
 !bslidecell 00 0.6
 !bblock
-A particular strength of physics students is their ability to _pose and
-solve problems_ that combine _physical insights_ with _mathematical tools_
-and now also _computational skills_. This provides a unique combination
-of applied and theoretical knowledge and skills. These features are invaluable
-for the development of multi-disciplinary educational and research programs.
+Physics students can _pose and solve problems_ that combine _physical insights_ with _mathematical tools_ and now also _computational skills_. This provides a unique combination of applied and theoretical knowledge and skills. These features are invaluable for the development of multi-disciplinary educational and research programs.
 !eblock
 !eslidecell
 
@@ -132,16 +133,16 @@ FIGURE: [fig-future/computer_nerd2, width=1600 frac=1]
 
 
 !split
-===== We develop a social and scientific learning environment =====
+===== A social and scientific learning environment =====
 
 !bblock
-The main aim is that students should realize their own potentials and creative power
+Goal: Students should realize their full potentials and discover their creative powers
 
  * Students come with different dreams, ambitions, aspirations and topics they wish to study, our approach is to tailor the education to all these aspects
- * Our motto: foster students who are better than their supervisors - that's progress!
+ * Our motto: foster students who are better than their supervisors
  * Students and teachers help each other
  * Students with different backgrounds and needs can thrive socially and scientifically
- * No competing environment, but a drive and enthusiam for sharing and developing knowledge
+ * Not a competitive environment, but a drive and enthusiam for sharing and developing knowledge
 !eblock
 
 
@@ -213,6 +214,7 @@ We need to foster candidates with the right
 multi-disciplinary background and computational thinking!
 !eblock
 
+# #ifdef NONE
 
 !split
 ===== Examples of large scale simulations =====
@@ -230,18 +232,17 @@ Fluid dynamical simulations central in air industry, wings tested.
 FIGURE: [fig-future/fig8.jpg, width=900 frac=1.0]
 !eblock
 
-
+# #endif
 
 !split
 ===== The future: A new type of students =====
 
 !bblock
-_Computations (mastering and developing)  will play a central role in almost all aspects of scientific investigations and technological innovation_
+_Computations will play a central role in almost all aspects of scientific investigations and technological innovation_
 !eblock
 
 !bblock
-_Candidates who are capable of modeling and understanding complicated
-systems, are in short supply in society_.
+_Candidates who are capable of modeling and understanding complicated systems, are in short supply in society_.
 !eblock
 !bblock
 We need students that
@@ -249,9 +250,16 @@ We need students that
 
 This knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
 !eblock
+!bblock
+This will lay the foundation for cross-disciplinary
+educational, research and innovation activities.
+#It will contribute to building a common cross-disciplinary
+#approach to key strategic initiatives, with important examples from fields like
+#*Energy research, Materials science and  Life Science*.
+!eblock
 
 
-
+# #ifdef NONE
 
 !split
 ===== The challenges for the future =====
@@ -269,9 +277,9 @@ approach to key strategic initiatives, with important examples from fields like 
 
 [hpl: Repetitions on this slide, lengthy text - better to just phrase this in the delivery]
 
+# #endif
 
-
-
+# #ifdef NONE
 !split
 ===== A new type of students =====
 !bblock
@@ -287,6 +295,9 @@ they will use in later stages of their careers.
 !eblock
 
 [hpl: True, but at this point time is needed for the new institute... Suggest to remove this slide.]
+
+# # endif
+
 
 !split
 ===== Create the Department for Computational Science! =====
