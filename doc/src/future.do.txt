@@ -10,7 +10,9 @@ DATE: September 2 2015,
 
 * _Research-based education_, from undergraduate studies to a PhD: "The Computational Physics group at the University of Oslo":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html" as example
 * Future challenges and directions
-
+!eblock
+!bblock Takeaway message
+A successful research program cannot be disconnected from education and vice versa
 !eblock
 
 !split
@@ -22,14 +24,12 @@ basic understanding of nature and technological advances_.
 !eblock
 
 !bblock Examples
-* quantum physical systems in nanotechnology and the characteristics of new materials
-* subamotic physics at its smallest length scale
-* simulating galaxies and the evolution of the universe
-* cancer treatment and how the brain works
-* predicting climate changes and this week's weather
-* simulating natural disasters
-* semi-conductor devices, quantum computers,
-* assessing risk in the insurance and financial industry
+* _Nanotech and Materials_: quantum physical systems in nanotechnology; characteristics of new materials; semi-conductor devices and quantum computers
+* _The smallest particles in nature_: subatomic physics at its smallest length scale
+* _And the largest_: simulating galaxies and the evolution of the universe
+* _Life science_: cancer treatment and how the brain works
+* _Geosciences_: predicting climate changes and this week's weather, simulating natural disasters
+* _Finance_: assessing risk in the insurance and financial industry
 * and many many more
 !eblock
 !epop
@@ -45,7 +45,6 @@ A set of instructions to solve a problem.
 !eblock
 
 !bblock Algorithmic thinking:
-
 * Enhances instruction-based teaching
 * Introduces research-based teaching  from day one
 * Triggers further insights in math and other disciplines
@@ -65,7 +64,6 @@ A set of instructions to solve a problem.
 _Computing means solving scientific problems using computers. It covers numerical as well as symbolic computing. Computing is also about developing an understanding of the scientific process by enhancing the algorithmic thinking when solving problems._
 !eblock
 
-
 !bblock Computing competence is about:
 
 * derivation, verification, and implementation of algorithms
@@ -75,7 +73,7 @@ _Computing means solving scientific problems using computers. It covers numerica
 * reproducible science and ethics
 * algorithmic thinking for gaining deeper insights about scientific problems
 
-All these elements (and many more) aid students in maturing and gaining a better understanding of the scientific process.
+All these elements (and many more) aid students in maturing and gaining a better understanding of the scientific process *per se*.
 !eblock
 
 
@@ -89,8 +87,8 @@ All these elements (and many more) aid students in maturing and gaining a better
 !bblock
 A computational approach allows us to introduce research concepts and engage students in research from *day one*.
 !eblock
-!bblock How do we define it?
-It is coupled to a direct participation in actual research and builds upon established
+!bblock How do we define research-based education?
+It is fully integrated with a direct participation in actual research and builds upon established
 knowledge and insights about scientific methods.
 
 [hpl: Think this is unclear...better to just phrase it orally?]
@@ -218,17 +216,40 @@ multi-disciplinary background and computational thinking!
 
 !split
 ===== Examples of large scale simulations =====
-!bblock   Fluid dynamical simulations central in air industry.  Typical university courses which are taught address the physics of the lower left corner.
+
+!bblock   Fluid dynamical simulations central in air industry.
 FIGURE: [fig-future/fig10.jpg, width=900 frac=0.6]
 !eblock
 
 
 !split
 ===== Testing plane wings via massive numerical simulations =====
+
 !bblock
 Fluid dynamical simulations central in air industry, wings tested.
 FIGURE: [fig-future/fig8.jpg, width=900 frac=1.0]
 !eblock
+
+
+
+!split
+===== The future: A new type of students =====
+
+!bblock
+_Computations (mastering and developing)  will play a central role in almost all aspects of scientific investigations and technological innovation_
+!eblock
+
+!bblock
+_Candidates who are capable of modeling and understanding complicated
+systems, are in short supply in society_.
+!eblock
+!bblock
+We need students that
+* can handle large and demanding multi-disciplinary  projects. This requires structured thinking and good analytical skills and a thorough understanding of the problems to be solved
+
+This knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
+!eblock
+
 
 
 
@@ -243,7 +264,7 @@ challenges.
 !bblock
 This will lay the foundation for cross-disciplinary
 educational, research and innovation activities. It will contribute to building a common cross-disciplinary
-approach to key strategic initiatives, with examples like *Energy, Materials, Life Science, and Enabling Technologies*.
+approach to key strategic initiatives, with important examples from fields like  *Energy research, Materials science and  Life Science*.
 !eblock
 
 [hpl: Repetitions on this slide, lengthy text - better to just phrase this in the delivery]
@@ -263,10 +284,6 @@ when working on their thesis projects are very similar to the methods
 they will use in later stages of their careers.
 * To handle large numerical projects demands structured thinking and good analytical skills and a thorough understanding of the problems to be solved.
 * This knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
-!eblock
-
-!bblock
-Computations (mastering and developing)  will play a central role in almost all aspects of scientific investigations and technological innovation
 !eblock
 
 [hpl: True, but at this point time is needed for the new institute... Suggest to remove this slide.]
@@ -290,6 +307,16 @@ _The process must start now_ in order not to lose momentum.
 
 
 !split
+===== Our takeaway messages =====
+!bblock
+* Computing plays and will play an even more important role in future scientific and technological advances
+* A successful research program cannot be disconnected from education and vice versa
+* An educational and research program which focuses on these issues needs to be established as soon as possible
+* Key goal: students must realize their own potentials and creative power
+!eblock
+
+
+!split
 ===== Our success builds on the Computing in Science Education project (UiO educational prize in 2011)  =====
 
 !bblock
@@ -301,8 +328,9 @@ The results, insights, ideas and thoughts presented here, would have been imposs
 * Oyvind Ryan, Mathematics
 * Solveig Kristensen and Annik Myhre, Deans of Education, MN faculty
 * Hanne Sølna, Director of studies MN faculty
-
+* _And: all our fantastisc students who keep giving us new insights!_
 !eblock
+Thanks for the attention.
 
 
 
