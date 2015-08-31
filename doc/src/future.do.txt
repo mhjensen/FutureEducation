@@ -132,7 +132,7 @@ for the development of multi-disciplinary educational and research programs for 
 * The computational physics group includes bachelor, master of science and doctoral students
 * Project oriented work where students develop and mature their own ideas, with an individually tailored approach to each students
 * Office space with desktops to every student and large common room for recreational activities (meals, common lunches, gaming, watching movies etc etc)
-* Many students collaborate on similar  thesis topics and "publish in top scientific articles":"http://www.dn.no/talent/2014/06/12/Utdannelse/sommervikar-ble-toppforsker"
+* Many students collaborate on similar  thesis topics and "publish in top scientific journals":"http://www.dn.no/talent/2014/06/12/Utdannelse/sommervikar-ble-toppforsker"
 !eblock
 
 
@@ -290,8 +290,9 @@ The insights, ideas and thoughts presented here, would have been impossible or d
 * Oyvind Ryan, Mathematics
 * Solveig Kristensen and Annik Myhre, Deans of Education, MN faculty
 * Hanne Sølna, Director of studies MN faculty
-
+* _And: all our fantastisc students who keep giving us new insights!_
 !eblock
+Thanks for the attention.
 
 
 
