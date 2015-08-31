@@ -24,7 +24,7 @@ basic understanding of nature and technological advances_.
 !eblock
 
 !bblock Examples
-* _Nanotech and Materials_: quantum physical systems in nanotechnology; characteristics of new materials; semi-conductor devices and quantum computers 
+* _Nanotech and Materials_: quantum physical systems in nanotechnology; characteristics of new materials; semi-conductor devices and quantum computers
 * _The smallest particles in nature_: subatomic physics at its smallest length scale
 * _And the largest_: simulating galaxies and the evolution of the universe
 * _Life science_: cancer treatment and how the brain works
@@ -38,6 +38,9 @@ basic understanding of nature and technological advances_.
 ===== Modeling and computations as a way to enhance algorithminc thinking =====
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
 !bpop
 !bblock
 _Algorithm_ :
@@ -46,6 +49,7 @@ A set of instructions to solve a problem.
 !eblock
 
 !bblock Algorithmic thinking:
+<<<<<<< HEAD
 =======
 !bblock 
 _Algorithmic  thinking as a way to_ :
@@ -56,6 +60,8 @@ _Algorithmic  thinking as a way to_ :
 * Good working practices from day one
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
 
+=======
+>>>>>>> master
 * Enhances instruction-based teaching
 * Introduces research-based teaching  from day one
 * Triggers further insights in math and other disciplines
@@ -69,6 +75,9 @@ _Algorithmic  thinking as a way to_ :
 
 !split
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
 ===== What does computing mean?  =====
 
 !bblock
@@ -76,6 +85,7 @@ _Algorithmic  thinking as a way to_ :
 _Computing means solving scientific problems using computers. It covers numerical as well as symbolic computing. Computing is also about developing an understanding of the scientific process by enhancing the algorithmic thinking when solving problems._
 !eblock
 
+<<<<<<< HEAD
 =======
 ===== What do we mean with computing?  =====
 !bblock
@@ -83,6 +93,8 @@ _Computing means solving scientific problems using computers. It covers numerica
 _Computing means solving scientific problems using computers. It covers numerical as well as symbolic computing. Computing is also about developing an understanding of the scientific process by enhancing algorithmic thinking when solving problems._
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
 
+=======
+>>>>>>> master
 !bblock Computing competence is about:
 
 * derivation, verification, and implementation of algorithms
@@ -93,10 +105,14 @@ _Computing means solving scientific problems using computers. It covers numerica
 * algorithmic thinking for gaining deeper insights about scientific problems
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 All these elements (and many more) aid students in maturing and gaining a better understanding of the scientific process.
 =======
 All these elements (and many more) aid students in maturing and gaining a better understanding of the scientific process *per se*.  
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
+=======
+All these elements (and many more) aid students in maturing and gaining a better understanding of the scientific process *per se*.
+>>>>>>> master
 !eblock
 
 
@@ -142,11 +158,15 @@ This is what we do in the "Computational Physics group at UiO":"http://www.mn.ui
 !bslidecell 00 0.6
 !bblock
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
 A particular strength of physics students is their ability to _pose and
 solve problems_ that combine _physical insights_ with _mathematical tools_
 and now also _computational skills_. This provides a unique combination
 of applied and theoretical knowledge and skills. These features are invaluable
 for the development of multi-disciplinary educational and research programs.
+<<<<<<< HEAD
 =======
 A particular strength of physics students is their ability to pose and
 solve problems that combine physical insights with mathematical
@@ -154,6 +174,8 @@ and  computational skills. This provides a unique combination
 of applied and theoretical knowledge and skills. These features are invaluable 
 for the development of multi-disciplinary educational and research programs for future challenges. 
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
+=======
+>>>>>>> master
 !eblock
 !eslidecell
 
@@ -167,6 +189,9 @@ FIGURE: [fig-future/computer_nerd2, width=1600 frac=1]
 
 !bblock
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
 The main aim is that students should realize their own potentials and creative power
 
  * Students come with different dreams, ambitions, aspirations and topics they wish to study, our approach is to tailor the education to all these aspects
@@ -174,6 +199,7 @@ The main aim is that students should realize their own potentials and creative p
  * Students and teachers help each other
  * Students with different backgrounds and needs can thrive socially and scientifically
  * No competing environment, but a drive and enthusiam for sharing and developing knowledge
+<<<<<<< HEAD
 =======
 * _The main aim is that students should realize their own potentials and creative power_
  * Students come with different dreams, ambitions, aspirations and topics they wish to study, our approach is to tailor the education to all these, an possibly more, aspects
@@ -184,6 +210,8 @@ The main aim is that students should realize their own potentials and creative p
  * This creates an enviroment where students with different backgrounds and needs can thrive socially and scientifically
 * _Takeaway message: Developing a collaborative educational environment is central for multi-disciplinary research projects to succeed_
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
+=======
+>>>>>>> master
 !eblock
 
 
@@ -193,6 +221,7 @@ The main aim is that students should realize their own potentials and creative p
 
 !bblock
 <<<<<<< HEAD
+<<<<<<< HEAD
 * We target bachelor, MSc and PhD students
 * Project-oriented work where students develop and mature their own ideas, with an individually tailored approach to each student
 * Office space with desktops to every student and large common room for recreational activities (meals, gaming, movies)
@@ -201,6 +230,11 @@ The main aim is that students should realize their own potentials and creative p
 * Project oriented work where students develop and mature their own ideas, with an individually tailored approach to each students
 * Office space with desktops to every student and large common room for recreational activities (meals, common lunches, gaming, watching movies etc etc)
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
+=======
+* We target bachelor, MSc and PhD students
+* Project-oriented work where students develop and mature their own ideas, with an individually tailored approach to each student
+* Office space with desktops to every student and large common room for recreational activities (meals, gaming, movies)
+>>>>>>> master
 * Many students collaborate on similar  thesis topics and "publish in top scientific journals":"http://www.dn.no/talent/2014/06/12/Utdannelse/sommervikar-ble-toppforsker"
 !eblock
 
@@ -265,16 +299,22 @@ multi-disciplinary background and computational thinking!
 !split
 ===== Examples of large scale simulations =====
 <<<<<<< HEAD
+<<<<<<< HEAD
 !bblock   Fluid dynamical simulations central in air industry.  Typical university courses which are taught address the physics of the lower left corner.
 =======
 !bblock   Fluid dynamical simulations central in air industry. 
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
+=======
+
+!bblock   Fluid dynamical simulations central in air industry.
+>>>>>>> master
 FIGURE: [fig-future/fig10.jpg, width=900 frac=0.6]
 !eblock
 
 
 !split
 ===== Testing plane wings via massive numerical simulations =====
+
 !bblock
 Fluid dynamical simulations central in air industry, wings tested.
 FIGURE: [fig-future/fig8.jpg, width=900 frac=1.0]
@@ -291,11 +331,11 @@ _Computations (mastering and developing)  will play a central role in almost all
 
 !bblock
 _Candidates who are capable of modeling and understanding complicated
-systems, are in short supply in society_.  
+systems, are in short supply in society_.
 !eblock
 !bblock
-We need students that  
-* can handle large and demanding multi-disciplinary  projects. This requires structured thinking and good analytical skills and a thorough understanding of the problems to be solved 
+We need students that
+* can handle large and demanding multi-disciplinary  projects. This requires structured thinking and good analytical skills and a thorough understanding of the problems to be solved
 
 This knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
 !eblock
@@ -315,10 +355,14 @@ challenges.
 This will lay the foundation for cross-disciplinary
 educational, research and innovation activities. It will contribute to building a common cross-disciplinary
 <<<<<<< HEAD
+<<<<<<< HEAD
 approach to key strategic initiatives, with examples like *Energy, Materials, Life Science, and Enabling Technologies*.
 =======
 approach to key strategic initiatives, with important examples from fields like  *Energy research, Materials science and  Life Science*. 
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
+=======
+approach to key strategic initiatives, with important examples from fields like  *Energy research, Materials science and  Life Science*.
+>>>>>>> master
 !eblock
 
 [hpl: Repetitions on this slide, lengthy text - better to just phrase this in the delivery]
@@ -327,6 +371,9 @@ approach to key strategic initiatives, with important examples from fields like 
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
 !split
 ===== A new type of students =====
 !bblock
@@ -340,9 +387,12 @@ they will use in later stages of their careers.
 * To handle large numerical projects demands structured thinking and good analytical skills and a thorough understanding of the problems to be solved.
 * This knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
 !eblock
+<<<<<<< HEAD
 =======
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
 
+=======
+>>>>>>> master
 
 [hpl: True, but at this point time is needed for the new institute... Suggest to remove this slide.]
 
@@ -365,18 +415,25 @@ _The process must start now_ in order not to lose momentum.
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> master
 !split
 ===== Our takeaway messages =====
-!bblock 
-* A successful research program cannot be disconnected from education and vice versa
+!bblock
 * Computing plays and will play an even more important role in future scientific and technological advances
+* A successful research program cannot be disconnected from education and vice versa
 * An educational and research program which focuses on these issues needs to be established as soon as possible
-* The main aim in developing a good educational and research program is  that students should learn to realize their own potentials and creative power
+* Key goal: students must realize their own potentials and creative power
 !eblock
 
+<<<<<<< HEAD
       
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
+=======
+
+>>>>>>> master
 !split
 ===== Our success builds on the Computing in Science Education project (UiO educational prize in 2011)  =====
 

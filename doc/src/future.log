@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.2.17)  31 AUG 2015 12:18
 =======
 This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  31 AUG 2015 10:47
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.2.17)  31 AUG 2015 12:26
+>>>>>>> master
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -945,7 +949,8 @@ Type  H <return>  for immediate help.
                                                   
 l.1357 }
         
-? 
+? r
+OK, entering \nonstopmode...
 
 ! LaTeX Error: Command \mdfsubsubtitle already defined.
                Or name \end... illegal, see p.192 of the manual.
@@ -956,7 +961,10 @@ Type  H <return>  for immediate help.
                                                   
 l.1397 }
         
-? 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 )
 \@indexfile=\write4
 \openout4 = `future.idx'.
@@ -1114,55 +1122,59 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
  [1
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-<fig-future/computer_nerd2.jpg, id=43, 301.125pt x 314.17375pt>
+<fig-future/computer_nerd2.jpg, id=41, 301.125pt x 314.17375pt>
 File: fig-future/computer_nerd2.jpg Graphic file (type jpg)
 
 <use fig-future/computer_nerd2.jpg>
-Package pdftex.def Info: fig-future/computer_nerd2.jpg used on input line 348.
+Package pdftex.def Info: fig-future/computer_nerd2.jpg used on input line 349.
 (pdftex.def)             Requested size: 345.0pt x 359.98346pt.
  [3] [4 <./fig-future/computer_nerd2.jpg>]
-<fig-future/visualize.jpg, id=62, 3276.24pt x 2457.18pt>
+<fig-future/visualize.jpg, id=63, 3276.24pt x 2457.18pt>
 File: fig-future/visualize.jpg Graphic file (type jpg)
 
 <use fig-future/visualize.jpg>
-Package pdftex.def Info: fig-future/visualize.jpg used on input line 437.
+Package pdftex.def Info: fig-future/visualize.jpg used on input line 438.
 (pdftex.def)             Requested size: 241.49895pt x 181.0936pt.
  [5]
-<fig-future/uniforum-0.png, id=77, 614.295pt x 794.97pt>
+<fig-future/uniforum-0.png, id=78, 614.295pt x 794.97pt>
 File: fig-future/uniforum-0.png Graphic file (type png)
 
 <use fig-future/uniforum-0.png>
-Package pdftex.def Info: fig-future/uniforum-0.png used on input line 451.
+Package pdftex.def Info: fig-future/uniforum-0.png used on input line 452.
 (pdftex.def)             Requested size: 241.49895pt x 312.52376pt.
  [6 <./fig-future/visualize.jpg>]
-<fig-future/pnas.png, id=85, 614.295pt x 794.97pt>
+<fig-future/pnas.png, id=86, 614.295pt x 794.97pt>
 File: fig-future/pnas.png Graphic file (type png)
  <use fig-future/pnas.png>
-Package pdftex.def Info: fig-future/pnas.png used on input line 465.
+Package pdftex.def Info: fig-future/pnas.png used on input line 466.
 (pdftex.def)             Requested size: 241.49895pt x 312.52376pt.
 
 [7 <./fig-future/uniforum-0.png>]
-<fig-future/fig10.jpg, id=94, 950.55125pt x 592.2125pt>
+<fig-future/fig10.jpg, id=95, 950.55125pt x 592.2125pt>
 File: fig-future/fig10.jpg Graphic file (type jpg)
 
 <use fig-future/fig10.jpg>
-Package pdftex.def Info: fig-future/fig10.jpg used on input line 512.
+Package pdftex.def Info: fig-future/fig10.jpg used on input line 514.
 (pdftex.def)             Requested size: 207.0021pt x 128.95879pt.
  [8 <./fig-future/pnas.png>]
-<fig-future/fig8.jpg, id=105, 1336.32584pt x 425.59pt>
+<fig-future/fig8.jpg, id=106, 1336.32584pt x 425.59pt>
 File: fig-future/fig8.jpg Graphic file (type jpg)
 
 <use fig-future/fig8.jpg>
-Package pdftex.def Info: fig-future/fig8.jpg used on input line 527.
+Package pdftex.def Info: fig-future/fig8.jpg used on input line 530.
 (pdftex.def)             Requested size: 345.0pt x 109.8715pt.
  [9 <./fig-future/fig10.jpg> <./fig-future/fig8.jpg>]
 [10]
 No file future.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 669.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 724.
 [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 669.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 724.
  (./future.aux)
+<<<<<<< HEAD
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 669.
 =======
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
@@ -1210,6 +1222,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 667.
  (./future.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 667.
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
+=======
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 724.
+>>>>>>> master
 
 
  *File List*
@@ -1362,6 +1377,7 @@ fig-future/fig8.jpg
  ***********
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 669.
 Package rerunfilecheck Info: File `future.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1386,6 +1402,19 @@ Here is how much of TeX's memory you used:
  25141 multiletter control sequences out of 15000+200000
  57905 words of font info for 103 fonts, out of 3000000 for 9000
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
+=======
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 724.
+Package rerunfilecheck Info: File `future.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 724.
+ ) 
+Here is how much of TeX's memory you used:
+ 23455 strings out of 493315
+ 419581 string characters out of 6137904
+ 526979 words of memory out of 5000000
+ 26290 multiletter control sequences out of 15000+600000
+ 57490 words of font info for 98 fonts, out of 8000000 for 9000
+>>>>>>> master
  957 hyphenation exceptions out of 8191
  68i,6n,65p,921b,551s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/
@@ -1402,12 +1431,17 @@ ype1/public/lm/lmr9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
 lm/lmri10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmsy10.
 pfb>
 <<<<<<< HEAD
+<<<<<<< HEAD
 Output written on future.pdf (11 pages, 4225813 bytes).
+=======
+Output written on future.pdf (11 pages, 4227647 bytes).
+>>>>>>> master
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
- 61 named destinations out of 1000 (max. 500000)
+ 197 PDF objects out of 1000 (max. 8388607)
+ 164 compressed objects within 2 object streams
+ 67 named destinations out of 1000 (max. 500000)
  18475 words of extra memory for PDF output out of 20736 (max. 10000000)
+<<<<<<< HEAD
 =======
 Output written on future.pdf (10 pages, 4195600 bytes).
 PDF statistics:
@@ -1416,4 +1450,6 @@ PDF statistics:
  62 named destinations out of 1000 (max. 500000)
  18470 words of extra memory for PDF output out of 20736 (max. 10000000)
 >>>>>>> 5fc06d357468ca5ec59d2d3ed0179709275f8f00
+=======
+>>>>>>> master
 
