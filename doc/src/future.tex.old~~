@@ -8,7 +8,7 @@
 %-------------------- begin preamble ----------------------
 
 \documentclass[%
-oneside,                 % oneside: electronic viewing, twoside: printing
+twoside,                 % oneside: electronic viewing, twoside: printing
 final,                   % or draft (marks overfull hboxes, figures with paths)
 10pt]{article}
 
@@ -18,7 +18,7 @@ final,                   % or draft (marks overfull hboxes, figures with paths)
 \usepackage[table]{xcolor}
 \usepackage{bm,microtype}
 
-\usepackage[pdftex]{graphicx}
+\usepackage{graphicx}
 
 \usepackage[T1]{fontenc}
 %\usepackage[latin1]{inputenc}
@@ -107,12 +107,12 @@ Education for the future
 {\bf Morten Hjorth-Jensen${}^{1, 2}$} \\ [0mm]
 \end{center}
 
-
+    
 \begin{center}
 {\bf Anders Malthe-Sørenssen${}^{1}$} \\ [0mm]
 \end{center}
 
-\begin{center}
+    \begin{center}
 % List of all institutions:
 \centerline{{\small ${}^1$Department of Physics, University of Oslo}}
 \centerline{{\small ${}^2$Department of Physics and Astronomy, Michigan State University, USA}}
@@ -145,6 +145,13 @@ The main topics of this talk are:
 
 
 
+% --- begin paragraph admon ---
+\paragraph{Takeaway message.}
+A successful research program cannot be disconnected from education and vice versa
+% --- end paragraph admon ---
+
+
+
 % !split
 \subsection{The role of computations, from education to society}
 
@@ -159,21 +166,17 @@ basic understanding of nature and technological advances}.
 % --- begin paragraph admon ---
 \paragraph{Examples.}
 \begin{itemize}
-\item quantum physical systems in nanotechnology and the characteristics of new materials
+\item \textbf{Nanotech and Materials}: quantum physical systems in nanotechnology; characteristics of new materials; semi-conductor devices and quantum computers 
 
-\item subamotic physics at its smallest length scale
+\item \textbf{The smallest particles in nature}: subatomic physics at its smallest length scale
 
-\item simulating galaxies and the evolution of the universe
+\item \textbf{And the largest}: simulating galaxies and the evolution of the universe
 
-\item cancer treatment and how the brain works
+\item \textbf{Life science}: cancer treatment and how the brain works
 
-\item predicting climate changes and this week's weather
+\item \textbf{Geosciences}: predicting climate changes and this week's weather, simulating natural disasters
 
-\item simulating natural disasters
-
-\item semi-conductor devices, quantum computers,
-
-\item assessing risk in the insurance and financial industry
+\item \textbf{Finance}: assessing risk in the insurance and financial industry
 
 \item and many many more
 \end{itemize}
@@ -195,8 +198,8 @@ basic understanding of nature and technological advances}.
 
 
 % --- begin paragraph admon ---
-\paragraph{Algorithmic  thinking as a way to.}
-
+\paragraph{}
+\textbf{Algorithmic  thinking as a way to} :
 \begin{itemize}
 \item Enhance instruction based teaching
 
@@ -204,9 +207,9 @@ basic understanding of nature and technological advances}.
 
 \item Trigger further insights in math and other disciplines 
 
-\item Validation and verification of scientific results, with the possibility to emphasize ethical aspects as well. Version control is central.
+\item Validation and verification of scientific results, with the possibility to emphasize ethical aspects as well. Version control is central
 
-\item Good working practices from day one.
+\item Good working practices from day one
 \end{itemize}
 
 \noindent
@@ -217,12 +220,12 @@ basic understanding of nature and technological advances}.
 
 
 % !split
-\subsection{What do we mean with computing and computational science and physics?}
+\subsection{What do we mean with computing?}
 
 % --- begin paragraph admon ---
 \paragraph{}
 
-\textbf{Computing means solving scientific problems using computers. It covers numerical as well as symbolic computing. Computing is also about developing an understanding of the scientific process by enhancing the algorithmic thinking when solving problems.}
+\textbf{Computing means solving scientific problems using computers. It covers numerical as well as symbolic computing. Computing is also about developing an understanding of the scientific process by enhancing algorithmic thinking when solving problems.}
 
 And this  competence is about:
 
@@ -241,7 +244,7 @@ And this  competence is about:
 \end{itemize}
 
 \noindent
-All these elements (and many more) aid students in maturing and gaining a better understanding of the scientific process.
+All these elements (and many more) aid students in maturing and gaining a better understanding of the scientific process \emph{per se}.
 % --- end paragraph admon ---
 
 
@@ -261,8 +264,8 @@ A computational approach allows us to introduce research concepts and engage stu
 
 
 % --- begin paragraph admon ---
-\paragraph{How do we define it?}
-It is coupled to a direct participation in actual research and builds upon established
+\paragraph{How do we define research-based education?}
+It is fully integrated with a direct participation in actual research and builds upon established
 knowledge and insights about scientific methods.
 % --- end paragraph admon ---
 
@@ -302,10 +305,10 @@ Our education should reflect this. An example where this takes place is the \hre
 % --- begin paragraph admon ---
 \paragraph{}
 A particular strength of physics students is their ability to pose and
-solve problems that combine physical insights with mathematical tools
-and now also computational skills. This provides a unique combination
+solve problems that combine physical insights with mathematical
+and  computational skills. This provides a unique combination
 of applied and theoretical knowledge and skills. These features are invaluable 
-for the development of multi-disciplinary educational and research programs.
+for the development of multi-disciplinary educational and research programs for future challenges.
 % --- end paragraph admon ---
 
 
@@ -317,10 +320,10 @@ for the development of multi-disciplinary educational and research programs.
 % --- begin paragraph admon ---
 \paragraph{}
 \begin{itemize}
-\item The main aim is that students should realize their own potentials and creative power
+\item \textbf{The main aim is that students should realize their own potentials and creative power}
 \begin{itemize}
 
- \item Students come with different dreams, ambitions, aspirations and topics they wish to study, our approach is to tailor the education to all these aspects
+ \item Students come with different dreams, ambitions, aspirations and topics they wish to study, our approach is to tailor the education to all these, an possibly more, aspects
 
  \item Our motto is to foster students which are better than their supervisors. This is how we define progress
 
@@ -328,12 +331,14 @@ for the development of multi-disciplinary educational and research programs.
 
  \item The emphasis is on learning and getting new insights. Students and teachers help each other
 
+ \item No competing environment but a drive and enthusiam in sharing and developing new knowledge
+
  \item This creates an enviroment where students with different backgrounds and needs can thrive socially and scientifically
 
- \item No competing environment but a drive and enthusiam in sharing and developing new knowledge
 \end{itemize}
 
 \noindent
+\item \textbf{Takeaway message: Developing a collaborative educational environment is central for multi-disciplinary research projects to succeed}
 \end{itemize}
 
 \noindent
@@ -471,7 +476,7 @@ understanding present and future simulation technologies and their challenges.
 \subsection{Examples of large scale simulations}
 
 % --- begin paragraph admon ---
-\paragraph{Fluid dynamical simulations central in air industry.  Typical university courses which are taught address the physics of the lower left corner.}
+\paragraph{Fluid dynamical simulations central in air industry.}
 
 
 % inline figure
@@ -498,6 +503,42 @@ Fluid dynamical simulations central in air industry, wings tested.
 
 
 % !split
+\subsection{The future: A new type of students}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+\textbf{Computations (mastering and developing)  will play a central role in almost all aspects of scientific investigations and technological innovation}
+% --- end paragraph admon ---
+
+
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+\textbf{Candidates who are capable of modeling and understanding complicated
+systems, are in short supply in society}.
+% --- end paragraph admon ---
+
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+We need students that  
+\begin{itemize}
+\item can handle large and demanding multi-disciplinary  projects. This requires structured thinking and good analytical skills and a thorough understanding of the problems to be solved 
+\end{itemize}
+
+\noindent
+This knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
+% --- end paragraph admon ---
+
+
+
+
+
+
+% !split
 \subsection{The challenges for the future}
 
 % --- begin paragraph admon ---
@@ -514,7 +555,7 @@ challenges.
 \paragraph{}
 This will lay the foundation for cross-disciplinary
 educational, research and innovation activities. It will contribute to building a common cross-disciplinary
-approach to key strategic initiatives, with examples like \emph{Energy, Materials, Life Science, and Enabling Technologies}.
+approach to key strategic initiatives, with important examples from fields like  \emph{Energy research, Materials science and  Life Science}.
 % --- end paragraph admon ---
 
 
@@ -522,39 +563,6 @@ approach to key strategic initiatives, with examples like \emph{Energy, Material
 
 
 
-
-% !split
-\subsection{A new type of students}
-
-% --- begin paragraph admon ---
-\paragraph{}
-\textbf{Candidates who are capable of modeling and understanding complicated
-systems, are in short supply in society}.
-% --- end paragraph admon ---
-
-
-
-% --- begin paragraph admon ---
-\paragraph{}
-The computational methods and approaches to scientific problems students learn
-when working on their thesis projects are very similar to the methods
-they will use in later stages of their careers.  
-\begin{itemize}
-\item To handle large numerical projects demands structured thinking and good analytical skills and a thorough understanding of the problems to be solved. 
-
-\item This knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
-\end{itemize}
-
-\noindent
-% --- end paragraph admon ---
-
-
-
-
-% --- begin paragraph admon ---
-\paragraph{}
-Computations (mastering and developing)  will play a central role in almost all aspects of scientific investigations and technological innovation
-% --- end paragraph admon ---
 
 
 
@@ -593,6 +601,26 @@ Computations (mastering and developing)  will play a central role in almost all 
 
 
 \textbf{The process must start now} in order not to loose momentum.
+
+
+% !split
+\subsection{Our takeaway messages}
+
+% --- begin paragraph admon ---
+\paragraph{}
+\begin{itemize}
+\item A successful research program cannot be disconnected from education and vice versa
+
+\item Computing plays and will play an even more important role in future scientific and technological advances
+
+\item An educational and research program which focuses on these issues needs to be established as soon as possible
+
+\item The main aim in developing a good educational and research program is  that students should learn to realize their own potentials and creative power
+\end{itemize}
+
+\noindent
+% --- end paragraph admon ---
+
 
 
 
