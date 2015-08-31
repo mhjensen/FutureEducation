@@ -77,5 +77,8 @@ pdflatex -shell-escape $name
 mv -f $name.pdf ${name}-minted.pdf
 cp $name.tex ${name}-plain-minted.tex
 
-
+# Publish
+dest=../pub/future
+cp -r *.html fig-future $dest/html
+cp *.pdf $dest/pdf
 
