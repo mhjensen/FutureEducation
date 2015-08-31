@@ -9,12 +9,12 @@
 
 \documentclass[%
 oneside,                 % oneside: electronic viewing, twoside: printing
-final,                   % or draft (marks overfull hboxes, figures with paths)
+final,                   % draft: marks overfull hboxes, figures with paths
 10pt]{article}
 
 \listfiles               % print all files needed to compile this document
 
-\usepackage{relsize,makeidx,color,setspace,amsmath,amsfonts}
+\usepackage{relsize,makeidx,color,setspace,amsmath,amsfonts,amssymb}
 \usepackage[table]{xcolor}
 \usepackage{bm,microtype}
 
@@ -51,14 +51,19 @@ final,                   % or draft (marks overfull hboxes, figures with paths)
 \setcounter{topnumber}{2}
 \setcounter{bottomnumber}{2}
 \setcounter{totalnumber}{4}
-\renewcommand{\topfraction}{0.85}
-\renewcommand{\bottomfraction}{0.85}
-\renewcommand{\textfraction}{0.15}
-\renewcommand{\floatpagefraction}{0.7}
+\renewcommand{\topfraction}{0.95}
+\renewcommand{\bottomfraction}{0.95}
+\renewcommand{\textfraction}{0}
+\renewcommand{\floatpagefraction}{0.75}
+% floatpagefraction must always be less than topfraction!
 % 2. ensure all figures are flushed before next section
 \usepackage[section]{placeins}
 % 3. enable begin{figure}[H] (often leads to ugly pagebreaks)
 %\usepackage{float}\restylefloat{figure}
+
+% newcommands for typesetting inline (doconce) comments
+\newcommand{\shortinlinecomment}[3]{{\color{red}{\bf #1}: #2}}
+\newcommand{\longinlinecomment}[3]{{\color{red}{\bf #1}: #2}}
 
 \usepackage[framemethod=TikZ]{mdframed}
 
@@ -120,19 +125,20 @@ Education for the future
     
 % ----------------- end author(s) -------------------------
 
-\begin{center} % date
-September 2 2015, 
+% --- begin date ---
+\begin{center}
+September 2 2015,
 \end{center}
+% --- end date ---
 
 \vspace{1cm}
 
 
 % !split
-\subsection*{How we perceive the role of education, present and future}
+\subsection*{This talk is about how we perceive the role of education; present and future}
 
 % --- begin paragraph admon ---
 \paragraph{}
-The main topics of this talk are:
 
 \begin{itemize}
 \item \textbf{Research-based education}, from undergraduate studies to a PhD: \href{{http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html}}{The Computational Physics group at the University of Oslo} as example
@@ -147,12 +153,14 @@ The main topics of this talk are:
 
 % !split
 \subsection*{The role of computations, from education to society}
+% !bpop
 
 % --- begin paragraph admon ---
 \paragraph{}
 \textbf{Computations of almost all systems in science are central to our
 basic understanding of nature and technological advances}.
 % --- end paragraph admon ---
+
 
 
 
@@ -182,49 +190,62 @@ basic understanding of nature and technological advances}.
 % --- end paragraph admon ---
 
 
+% !epop
 
 % !split
 \subsection*{Modeling and computations as a way to enhance algorithminc thinking}
 
+% !bpop
+
 % --- begin paragraph admon ---
 \paragraph{}
-\textbf{Algorithm} : A finite set of unambiguous instructions that, given some set of initial conditions, can be performed in a prescribed sequence to achieve a certain goal.
+\textbf{Algorithm} :
+A set of instructions to solve a problem.
+% A finite set of unambiguous instructions that, given some set of initial condit#ions, can be performed in a prescribed sequence to achieve a certain goal.
 % --- end paragraph admon ---
 
 
 
 
 % --- begin paragraph admon ---
-\paragraph{Algorithmic  thinking as a way to.}
+\paragraph{Algorithmic thinking:}
 
 \begin{itemize}
-\item Enhance instruction based teaching
+\item Enhances instruction-based teaching
 
-\item Introduce research-based teaching  from day one
+\item Introduces research-based teaching  from day one
 
-\item Trigger further insights in math and other disciplines 
+\item Triggers further insights in math and other disciplines
 
-\item Validation and verification of scientific results, with the possibility to emphasize ethical aspects as well. Version control is central.
+\item Emphasizes validation and verification of scientific results, and integrates ethics
 
-\item Good working practices from day one.
+\item Ensures good working practices from day one!
 \end{itemize}
 
 \noindent
 % --- end paragraph admon ---
 
 
+% !epop
 
 
 
 % !split
-\subsection*{What do we mean with computing and computational science and physics?}
+\subsection*{What does computing mean?}
+
 
 % --- begin paragraph admon ---
 \paragraph{}
 
 \textbf{Computing means solving scientific problems using computers. It covers numerical as well as symbolic computing. Computing is also about developing an understanding of the scientific process by enhancing the algorithmic thinking when solving problems.}
+% --- end paragraph admon ---
 
-And this  competence is about:
+
+
+
+
+% --- begin paragraph admon ---
+\paragraph{Computing competence is about:}
 
 \begin{itemize}
 \item derivation, verification, and implementation of algorithms
@@ -253,6 +274,8 @@ All these elements (and many more) aid students in maturing and gaining a better
 % !split
 \subsection*{Computing and research-based education}
 
+% !bpop
+
 % --- begin paragraph admon ---
 \paragraph{}
 A computational approach allows us to introduce research concepts and engage students in research from \emph{day one}.
@@ -264,76 +287,88 @@ A computational approach allows us to introduce research concepts and engage stu
 \paragraph{How do we define it?}
 It is coupled to a direct participation in actual research and builds upon established
 knowledge and insights about scientific methods.
+
+\shortinlinecomment{hpl 1}{ Think this is unclear...better to just phrase it orally? }{ Think this is unclear...better }
 % --- end paragraph admon ---
 
 
+% !epop
 
 
 
 % !split
 \subsection*{Research-based education}
 
+
 % --- begin paragraph admon ---
 \paragraph{What should the education contain?}
-The standard situation we meet at an almost daily basis:
 
 \begin{itemize}
-\item Theory+experiment+simulation is almost the norm in research and industry
+\item Theory + experiment + simulation is the norm in research and industry
 
-\item To be able to model complex systems with no simple answers. Solve real problems.
+\item Modeling of real, complex systems with no simple answers
 
-\item Emphasis on insight and understanding of fundamental principles and laws in the Sciences.
+\item Insight and understanding of fundamental principles and laws
 
-\item Be able to visualize, present, discuss, interpret and come with a critical analysis of the results, and develop a sound ethical attitude to own and other's work.
+\item Visualization, presentation, discussion, interpretation, and critical analysis of results
 
-\item Enhance reasoning about the scientific method
+\item Development of a sound ethical attitude to own and other's work
+
+\item Enhanced reasoning about the scientific method
 \end{itemize}
 
 \noindent
-Our education should reflect this. An example where this takes place is the \href{{http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html}}{Computational Physics group at UiO}.  How can we implement in a systematic was a research-based education?
+This is what we do in the \href{{http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html}}{Computational Physics group at UiO}!
 % --- end paragraph admon ---
 
 
 
 
 % !split
-\subsection*{\href{{http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html}}{Computational Physics group at UiO}; implementing our visions}
+\subsection*{\href{{http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html}}{Computational Physics group at UiO}; our visions}
+
+% !bslidecell 00 0.6
 
 % --- begin paragraph admon ---
 \paragraph{}
-A particular strength of physics students is their ability to pose and
-solve problems that combine physical insights with mathematical tools
-and now also computational skills. This provides a unique combination
-of applied and theoretical knowledge and skills. These features are invaluable 
+A particular strength of physics students is their ability to \textbf{pose and
+solve problems} that combine \textbf{physical insights} with \textbf{mathematical tools}
+and now also \textbf{computational skills}. This provides a unique combination
+of applied and theoretical knowledge and skills. These features are invaluable
 for the development of multi-disciplinary educational and research programs.
 % --- end paragraph admon ---
 
 
+% !eslidecell
+
+% !bslidecell 01 0.4
+
+
+% inline figure
+\centerline{\includegraphics[width=1.0\linewidth]{fig-future/computer_nerd2.jpg}}
+
+
+% !eslidecell
 
 
 % !split
-\subsection*{Develop a social, scientific and learning environment}
+\subsection*{We develop a social and scientific learning environment}
+
 
 % --- begin paragraph admon ---
 \paragraph{}
-\begin{itemize}
-\item The main aim is that students should realize their own potentials and creative power
-\begin{itemize}
+The main aim is that students should realize their own potentials and creative power
 
+\begin{itemize}
  \item Students come with different dreams, ambitions, aspirations and topics they wish to study, our approach is to tailor the education to all these aspects
 
- \item Our motto is to foster students which are better than their supervisors. This is how we define progress
+ \item Our motto: foster students who are better than their supervisors - that's progress!
 
- \item This creates an atmosphere for learning and sharing knowledge
+ \item Students and teachers help each other
 
- \item The emphasis is on learning and getting new insights. Students and teachers help each other
+ \item Students with different backgrounds and needs can thrive socially and scientifically
 
- \item This creates an enviroment where students with different backgrounds and needs can thrive socially and scientifically
-
- \item No competing environment but a drive and enthusiam in sharing and developing new knowledge
-\end{itemize}
-
-\noindent
+ \item No competing environment, but a drive and enthusiam for sharing and developing knowledge
 \end{itemize}
 
 \noindent
@@ -344,18 +379,19 @@ for the development of multi-disciplinary educational and research programs.
 
 
 % !split
-\subsection*{Develop a social, scientific and learning environment}
+\subsection*{We develop a social and scientific learning environment}
+
 
 % --- begin paragraph admon ---
 \paragraph{}
 \begin{itemize}
-\item The computational physics group includes bachelor, master of science and doctoral students
+\item We target bachelor, MSc and PhD students
 
-\item Project oriented work where students develop and mature their own ideas, with an individually tailored approach to each students
+\item Project-oriented work where students develop and mature their own ideas, with an individually tailored approach to each student
 
-\item Office space with desktops to every student and large common room for recreational activities (meals, common lunches, gaming, watching movies etc etc)
+\item Office space with desktops to every student and large common room for recreational activities (meals, gaming, movies)
 
-\item Many students collaborate on similar  thesis topics and \href{{http://www.dn.no/talent/2014/06/12/Utdannelse/sommervikar-ble-toppforsker}}{publish in top scientific articles}
+\item Many students collaborate on similar  thesis topics and \href{{http://www.dn.no/talent/2014/06/12/Utdannelse/sommervikar-ble-toppforsker}}{publish in top scientific journals}
 \end{itemize}
 
 \noindent
@@ -366,20 +402,18 @@ for the development of multi-disciplinary educational and research programs.
 
 
 % !split
-\subsection*{Developing a good learning environment}
+\subsection*{Features of the Computational Physics group}
 
 % --- begin paragraph admon ---
 \paragraph{}
 \begin{itemize}
 \item Our students have made significant contributions to  the \href{{http://www.mn.uio.no/english/about/collaboration/cse/}}{Computing in Science Education}  (UiO education prize in 2011) by developing exercises and participating in educational projects at the MN faculty
 
-\item Our students have also developed educational \href{{http://www.mn.uio.no/fysikk/om/aktuelt/aktuelle-saker/2015/realfagsapper.html}}{tools and applications for understanding complicated physical problems} 
-
-\item The students keep shaping and developing the scientific, social and pedagogical activities of the group
+\item Our students have also developed educational \href{{http://www.mn.uio.no/fysikk/om/aktuelt/aktuelle-saker/2015/realfagsapper.html}}{tools and applications for understanding complicated physical problems}
 
 \item A group of PhD students is now developing \href{{https://github.com/CINPLA/ibvcse}}{new textbooks for Computational Life Science}
 
-\item During the last ten years more than 60 students have finalized their master theses in computational physics and  almost 60\% have continued with PhD studies
+\item 2005-2015: $> 60$ students have finalized their master's theses and 60\% have continued with PhD studies
 
 \item Many students don't want to leave the group after finishing their studies
 \end{itemize}
@@ -437,18 +471,19 @@ for the development of multi-disciplinary educational and research programs.
 
 
 % !split
-\subsection*{The future: Multiscale modeling is the big open research question}
+\subsection*{Multiscale modeling is the big open research question in the 21st century}
 
 
 % --- begin paragraph admon ---
 \paragraph{}
-Present and future problems, unlike traditional
-science and engineering, involve complex systems with many distinct
-physical processes. 
 \begin{itemize}
-\item The wide open research topic of this century, both in industry and at universities, is how to effectively couple processes across different length and energy scales. 
+\item Present and future problems, unlike traditional
+  science and engineering, involve complex systems with many distinct
+  physical processes
 
-\item Progress will rely on a multi-disciplinary approach and therefore the  need for multi-disciplinary educational and research programs.
+\item The wide open research topic of this century, both in industry and at universities, is how to effectively couple processes across different length and energy scales
+
+\item Progress will rely on a \emph{multi-disciplinary} approach
 \end{itemize}
 
 \noindent
@@ -460,8 +495,7 @@ physical processes.
 % --- begin paragraph admon ---
 \paragraph{}
 We need to foster candidates with the right
-multi-disciplinary background and computational thinking for
-understanding present and future simulation technologies and their challenges.
+multi-disciplinary background and computational thinking!
 % --- end paragraph admon ---
 
 
@@ -502,7 +536,7 @@ Fluid dynamical simulations central in air industry, wings tested.
 
 % --- begin paragraph admon ---
 \paragraph{}
-We need to educate the next generation of 
+We need to educate the next generation of
 science students with the knowledge, skills, and values needed to pose
 and solve current and new scientific, technological and societal
 challenges.
@@ -519,6 +553,7 @@ approach to key strategic initiatives, with examples like \emph{Energy, Material
 
 
 
+\shortinlinecomment{hpl 2}{ Repetitions on this slide, lengthy text - better to just phrase this in the delivery }{ Repetitions on this slide, }
 
 
 
@@ -538,9 +573,9 @@ systems, are in short supply in society}.
 \paragraph{}
 The computational methods and approaches to scientific problems students learn
 when working on their thesis projects are very similar to the methods
-they will use in later stages of their careers.  
+they will use in later stages of their careers.
 \begin{itemize}
-\item To handle large numerical projects demands structured thinking and good analytical skills and a thorough understanding of the problems to be solved. 
+\item To handle large numerical projects demands structured thinking and good analytical skills and a thorough understanding of the problems to be solved.
 
 \item This knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
 \end{itemize}
@@ -558,20 +593,16 @@ Computations (mastering and developing)  will play a central role in almost all 
 
 
 
-
+\shortinlinecomment{hpl 3}{ True, but at this point time is needed for the new institute... Suggest to remove this slide. }{ True, but at this }
 
 % !split
-\subsection*{What we should do: create the Department  for Computational Science}
+\subsection*{Create the Department for Computational Science!}
+
 
 % --- begin paragraph admon ---
-\paragraph{What we have and where we can arrive.}
-\begin{itemize}
-\item UiO's strength in computational science (education and research) will play an important role in  determining new research and educational directions
-
-\item Exploiting this strength has the potential to make UiO a center of excellence for scientific innovation
-\end{itemize}
-
-\noindent
+\paragraph{}
+UiO's strength in computational science (education and research)
+has the potential to make UiO a top European university
 % --- end paragraph admon ---
 
 
@@ -582,9 +613,9 @@ Computations (mastering and developing)  will play a central role in almost all 
 \begin{itemize}
 \item Establish  a new center/department with focus on computational science and its applications to a wide range of fields (natural science, medicine, social sciences, humanities, applied research etc)
 
-\item Hire ten (or more) young professors (age $< 40$) dedicated to innovative research and education where computations play a central role
+\item Hire ten young professors (age $< 40$) dedicated to innovative \emph{computational} research and education
 
-\item Establish another ten professorships (or more) with  shared positions (position percentage  is flexible) between the  new department and the department of appartanence (physics, chemistry, etc etc).
+\item Establish another ten professorships with  shared positions between the  new department and the discipline-specificdepartment (physics, chemistry, ...)
 \end{itemize}
 
 \noindent
@@ -592,16 +623,18 @@ Computations (mastering and developing)  will play a central role in almost all 
 
 
 
-\textbf{The process must start now} in order not to loose momentum.
+\textbf{The process must start now} in order not to lose momentum.
 
 
 
 % !split
-\subsection*{The Computing in Science Education project, UiO educational prize in 2011}
+\subsection*{Our success builds on the Computing in Science Education project (UiO educational prize in 2011)}
+
 
 % --- begin paragraph admon ---
 \paragraph{}
-The insights, ideas and thoughts presented here, would have been impossible or difficult to gain without discussions, exchange of ideas and much more over many years with colleagues involved in the \href{{http://www.mn.uio.no/english/about/collaboration/cse/}}{Computing in Science Education} project at UiO. These dear friends and colleagues  are 
+The results, insights, ideas and thoughts presented here, would have been impossible without the continuous interaction with colleagues in the \href{{http://www.mn.uio.no/english/about/collaboration/cse/}}{Computing in Science Education} project.
+
 \begin{itemize}
 \item Hans Petter Langtangen, Informatics and Simula Research Laboratory
 
