@@ -43,7 +43,8 @@ _Algorithm_ :
 A set of instructions to solve a problem.
 !eblock
 
-!bblock Algorithmic thinking applies to all disciplines. It
+!bblock 
+_Algorithmic thinking applies to all disciplines. It_
 * Enhances instruction-based teaching
 * Introduces research-based teaching  from day one
 * Triggers further insights in scientific problems
@@ -323,6 +324,7 @@ has the potential to make UiO a top European university
 * Establish  a new center/department with focus on computational science and its applications to a wide range of fields (natural science, medicine, social sciences, humanities, applied research etc)
 * Hire ten young professors (age $< 40$) dedicated to innovative *computational* research and education
 * Establish another ten professorships with  shared positions between the  new department and the discipline-specificdepartment (physics, chemistry, ...)
+* Establish  best practices for computational and educational innovations, with a particular focus on  new learning material 
 !eblock
 
 _The process must start now_ in order not to lose momentum.
@@ -343,23 +345,24 @@ _The process must start now_ in order not to lose momentum.
 ===== Computational Physics and  the Computing in Science Education project (UiO educational prize in 2011)  =====
 
 !bblock
-The results, insights, ideas and thoughts presented here, would have been impossible without the continuous interaction with colleagues in the "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" project.
+The results, insights, ideas and thoughts presented here, would have been impossible without the infinitely many  interactions with colleagues in the "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" project _and all our fantastisc students who continuously give us new insights! Thanks_
 !eblock
 !bslidecell 00 0.4
-!bblock 
+!bblock
 * Hans Petter Langtangen
 * Knut Mørken
 * Arnt Inge Vistnes
 * Oyvind Ryan
 * Solveig Kristensen and Annik Myhre
 * Hanne Sølna
-* _And: all our fantastisc students who keep giving us new insights!_
 !eblock
 !eslidecell
 
 !bslidecell 01 0.6
-FIGURE: [fig-future/thegang.jpg, width=2100 frac=1]
+FIGURE: [fig-future/thegang.jpg, width=1900 frac=1]
 !eslidecell
+
+
 
 
 
