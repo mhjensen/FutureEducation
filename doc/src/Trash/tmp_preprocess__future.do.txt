@@ -89,20 +89,6 @@ All these elements (and many more) aid students in maturing and gaining a better
 A computational approach allows us to introduce research concepts and engage students in research from *day one*.
 !eblock
 
-# #ifdef NONE
-!bblock How do we define research-based education?
-It is fully integrated with a direct participation in actual research and builds upon established
-knowledge and insights about scientific methods.
-
-[hpl: Think this is unclear...better to just phrase it orally?]
-!eblock
-#!epop
-
-!split
-
-===== Research-based education =====
-
-# #endif
 
 
 !bblock What should the education contain?
@@ -214,25 +200,6 @@ We need to foster candidates with the right
 multi-disciplinary background and computational thinking!
 !eblock
 
-# #ifdef NONE
-
-!split
-===== Examples of large scale simulations =====
-
-!bblock   Fluid dynamical simulations central in air industry.
-FIGURE: [fig-future/fig10.jpg, width=900 frac=0.6]
-!eblock
-
-
-!split
-===== Testing plane wings via massive numerical simulations =====
-
-!bblock
-Fluid dynamical simulations central in air industry, wings tested.
-FIGURE: [fig-future/fig8.jpg, width=900 frac=1.0]
-!eblock
-
-# #endif
 
 !split
 ===== The future: A new type of students =====
@@ -259,44 +226,7 @@ educational, research and innovation activities.
 !eblock
 
 
-# #ifdef NONE
 
-!split
-===== The challenges for the future =====
-!bblock
-We need to educate the next generation of
-science students with the knowledge, skills, and values needed to pose
-and solve current and new scientific, technological and societal
-challenges.
-!eblock
-!bblock
-This will lay the foundation for cross-disciplinary
-educational, research and innovation activities. It will contribute to building a common cross-disciplinary
-approach to key strategic initiatives, with important examples from fields like  *Energy research, Materials science and  Life Science*.
-!eblock
-
-[hpl: Repetitions on this slide, lengthy text - better to just phrase this in the delivery]
-
-# #endif
-
-# #ifdef NONE
-!split
-===== A new type of students =====
-!bblock
-_Candidates who are capable of modeling and understanding complicated
-systems, are in short supply in society_.
-!eblock
-!bblock
-The computational methods and approaches to scientific problems students learn
-when working on their thesis projects are very similar to the methods
-they will use in later stages of their careers.
-* To handle large numerical projects demands structured thinking and good analytical skills and a thorough understanding of the problems to be solved.
-* This knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
-!eblock
-
-[hpl: True, but at this point time is needed for the new institute... Suggest to remove this slide.]
-
-# # endif
 
 
 !split
