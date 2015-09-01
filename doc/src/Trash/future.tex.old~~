@@ -305,7 +305,7 @@ This is what we do in the \href{{http://www.mn.uio.no/fysikk/english/research/gr
 % !split
 \subsection{\href{{http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html}}{Computational Physics group at UiO}; our visions}
 
-% !bslidecell 00 0.6
+% !bslidecell 00 0.4
 
 % --- begin paragraph admon ---
 \paragraph{}
@@ -315,7 +315,7 @@ Physics students can \textbf{pose and solve problems} that combine \textbf{physi
 
 % !eslidecell
 
-% !bslidecell 01 0.4
+% !bslidecell 01 0.6
 
 
 % inline figure
@@ -439,9 +439,11 @@ Large screens for visualizing and presenting scientific results. And gaming and 
 
 % --- begin paragraph admon ---
 \paragraph{Our supercomuting cluster.}
-When UiO's previous supercomputing cluster (titan.uio.no) was replaced by \textbf{abel.uio.no}, we got 200 nodes for free from USIT and built our own supercomputer
+When UiO's previous supercomputing cluster (titan.uio.no) was replaced by \textbf{abel.uio.no}, we got 200 nodes for free from USIT and built our own supercomputer. The value in 2006 of all the equipment was close to eight MNOK.
 \begin{itemize}
 \item It helps students run and develop programs for large-scale problems locally
+
+\item A successful program can then run on larger national and international supercomputers
 
 \item Students run and maintain the local supercomputer
 
@@ -474,6 +476,12 @@ When UiO's previous supercomputing cluster (titan.uio.no) was replaced by \textb
 \item Bachelor and master students publish in scientific journals 
 
 \item Undergraduate students are exposed to research at early stages, often working with more advanced students
+
+\item Students are exposed to all stages of the scientific process
+
+\item Projects are tailored to the interests of the students
+
+\item Focus on insights and sharing knowledge
 \end{itemize}
 
 \noindent
