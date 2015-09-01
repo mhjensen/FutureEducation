@@ -341,20 +341,20 @@ _The process must start now_ in order not to lose momentum.
 !bblock
 The results, insights, ideas and thoughts presented here, would have been impossible without the continuous interaction with colleagues in the "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" project.
 !eblock
-!bslidecell 00 0.4
+!bslidecell 00 0.5
 !bblock 
-* Hans Petter Langtangen
-* Knut Mørken
-* Arnt Inge Vistnes
-* Oyvind Ryan
-* Solveig Kristensen and Annik Myhre
-* Hanne Sølna
+* Hans Petter Langtangen, Informatics and Simula Research Laboratory
+* Knut Mørken, Mathematics
+* Arnt Inge Vistnes, Physics
+* Oyvind Ryan, Mathematics
+* Solveig Kristensen and Annik Myhre, Deans of Education, MN faculty
+* Hanne Sølna, Director of studies MN faculty
 * _And: all our fantastisc students who keep giving us new insights!_
 !eblock
 !eslidecell
 
-!bslidecell 01 0.6
-FIGURE: [fig-future/thegang.jpg, width=2000 frac=1]
+!bslidecell 01 0.5
+FIGURE: [fig-future/thegang.jpg, width=1600 frac=1]
 !eslidecell
 
 
