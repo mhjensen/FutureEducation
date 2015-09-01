@@ -185,7 +185,7 @@ When UiO's previous supercomputing cluster (titan.uio.no) was replaced by _abel.
 !eslidecell
 
 !bslidecell 01 0.8
-FIGURE: [fig-future/uniforum-0.png, width=1900 frac=1]
+FIGURE: [fig-future/uniforum-0.png, width=2100 frac=1]
 !eslidecell
 
 
@@ -202,7 +202,7 @@ FIGURE: [fig-future/uniforum-0.png, width=1900 frac=1]
 !eslidecell
 
 !bslidecell 01 0.9
-FIGURE: [fig-future/pnas.png, width=1900 frac=1]
+FIGURE: [fig-future/pnas.png, width=1800 frac=1]
 !eslidecell
 
 
