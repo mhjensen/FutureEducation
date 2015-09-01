@@ -103,14 +103,14 @@ This is what we do in the "Computational Physics group at UiO":"http://www.mn.ui
 !split
 ===== "Computational Physics group at UiO":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html"; our visions =====
 
-!bslidecell 00 0.6
+!bslidecell 00 0.5
 !bblock
 Physics students can _pose and solve problems_ that combine _physical insights_ with _mathematical tools_ and now also _computational skills_. This provides a unique combination of applied and theoretical knowledge and skills. These features are invaluable for the development of multi-disciplinary educational and research programs.
 !eblock
 !eslidecell
 
-!bslidecell 01 0.4
-FIGURE: [fig-future/computer_nerd2, width=1600 frac=1]
+!bslidecell 01 0.5
+FIGURE: [fig-future/md2.png, width=1800 frac=1]
 !eslidecell
 
 
@@ -354,7 +354,7 @@ The results, insights, ideas and thoughts presented here, would have been imposs
 !eslidecell
 
 !bslidecell 01 0.6
-FIGURE: [fig-future/thegang.jpg, width=2000 frac=1]
+FIGURE: [fig-future/thegang.jpg, width=2200 frac=1]
 !eslidecell
 
 
