@@ -103,14 +103,14 @@ This is what we do in the "Computational Physics group at UiO":"http://www.mn.ui
 !split
 ===== "Computational Physics group at UiO":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html"; our visions =====
 
-!bslidecell 00 0.5
+!bslidecell 00 0.4
 !bblock
 Physics students can _pose and solve problems_ that combine _physical insights_ with _mathematical tools_ and now also _computational skills_. This provides a unique combination of applied and theoretical knowledge and skills. These features are invaluable for the development of multi-disciplinary educational and research programs.
 !eblock
 !eslidecell
 
-!bslidecell 01 0.5
-FIGURE: [fig-future/md2.png, width=1800 frac=1]
+!bslidecell 01 0.6
+FIGURE: [fig-future/md2.png, width=2200 frac=1]
 !eslidecell
 
 
@@ -176,7 +176,7 @@ FIGURE: [fig-future/visualize.jpg, width=1800 frac=1]
 ===== Building a local supercomputing cluster from titan.uio.no =====
 !bslidecell 00 0.2
 !bblock Our supercomuting cluster
-When UiO's previous supercomputing cluster (titan.uio.no) was replaced by _abel.uio.no_, we got 200 nodes for free from USIT and built our own supercomputer
+When UiO's previous supercomputing cluster (titan.uio.no) was replaced by _abel.uio.no_, we got 200 nodes for free from USIT and built our own supercomputer. The value in 2006 of all the equipment was close to eight MNOK.
 * It helps students run and develop programs for large-scale problems locally
 * Students run and maintain the local supercomputer
 * Used in regular courses as well
@@ -184,7 +184,7 @@ When UiO's previous supercomputing cluster (titan.uio.no) was replaced by _abel.
 !eslidecell
 
 !bslidecell 01 0.8
-FIGURE: [fig-future/uniforum-0.png, width=1800 frac=1]
+FIGURE: [fig-future/uniforum-0.png, width=1900 frac=1]
 !eslidecell
 
 
@@ -194,11 +194,12 @@ FIGURE: [fig-future/uniforum-0.png, width=1800 frac=1]
 !bblock Participating in research from day one!
 * Bachelor and master students publish in scientific journals 
 * Undergraduate students are exposed to research at early stages, often working with more advanced students
+* Students are exposed to all stages of the scientific process
 !eblock
 !eslidecell
 
 !bslidecell 01 0.9
-FIGURE: [fig-future/pnas.png, width=1800 frac=1]
+FIGURE: [fig-future/pnas.png, width=1900 frac=1]
 !eslidecell
 
 
@@ -354,7 +355,7 @@ The results, insights, ideas and thoughts presented here, would have been imposs
 !eslidecell
 
 !bslidecell 01 0.6
-FIGURE: [fig-future/thegang.jpg, width=2200 frac=1]
+FIGURE: [fig-future/thegang.jpg, width=2100 frac=1]
 !eslidecell
 
 
