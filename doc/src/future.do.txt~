@@ -1,0 +1,364 @@
+TITLE: Education for the future
+AUTHOR: Morten Hjorth-Jensen at Department of Physics, University of Oslo & Department of Physics and Astronomy, Michigan State University, USA
+AUTHOR: Anders Malthe-Sørenssen at Department of Physics, University of Oslo
+DATE: September 2 2015,
+
+
+!split
+===== Present and future education =====
+!bblock
+
+* _Research-based education_, from undergraduate studies to a PhD: "The Computational Physics group at the University of Oslo":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html" as example
+* Future challenges and directions
+!eblock
+!bblock Takeaway message
+Excellent research mutually depends on excellent education.
+#A successful research program cannot be disconnected from education and vice versa
+!eblock
+
+!split
+===== The role of computations, from education to society =====
+!bblock
+_Computations are central to our 
+basic understanding of nature and to technological advances_.
+UiO's strength in computational science (education and research)
+has the potential to make UiO a top European university.
+!eblock
+
+!bblock Examples
+* _Nanotech and Materials_: quantum physical systems in nanotechnology; characteristics of new materials; semi-conductor devices and quantum computers
+* _The smallest particles in nature_: subatomic physics at its smallest length scale
+* _And the largest_: simulating galaxies and the evolution of the universe
+* _Life science_: cancer treatment and how the brain works
+* _Geosciences_: predicting climate changes and this week's weather, simulating natural disasters
+* _Finance_: assessing risk in the insurance and financial industry
+* and many many more
+!eblock
+
+!split
+===== Modeling and computations as a way to enhance algorithminc thinking =====
+
+!bblock
+_Algorithm_ :
+A set of instructions to solve a problem.
+!eblock
+
+!bblock Algorithmic thinking applies to all disciplines. It
+* Enhances instruction-based teaching
+* Introduces research-based teaching  from day one
+* Triggers further insights in scientific problems
+* Emphasizes validation and verification of scientific results, and integrates science ethics in a natural way
+* Ensures good working practices from day one!
+
+!eblock
+
+
+
+!split
+===== What does computing mean?  =====
+
+!bblock
+
+_Computing means solving scientific problems using computers. It covers numerical as well as symbolic computing. Computing is also about developing an understanding of the scientific process by enhancing the algorithmic thinking when solving problems._
+!eblock
+
+!bblock Computing competence is about:
+
+* derivation, verification, and implementation of algorithms
+* understanding what can go wrong with algorithms
+* overview of important, known algorithms
+* understanding how algorithms are used to solve complicated problems
+* reproducible science and ethics
+* algorithmic thinking for gaining deeper insights about scientific problems
+
+All these elements (and many more) aid students in maturing and gaining a better understanding of the scientific process *per se*.
+!eblock
+
+
+
+
+
+!split
+===== Computing and research-based education =====
+
+!bblock
+A computational approach allows us to introduce research concepts and engage students in research from *day one*.
+!eblock
+
+
+!bblock What should the education contain?
+
+* Theory + experiment + simulation is the norm in research and industry
+* Modeling of real, complex systems with no simple answers
+* Insight and understanding of fundamental principles and laws
+* Visualization, presentation, discussion, interpretation, and critical analysis of results
+* Development of a sound ethical attitude to own and other's work
+* Enhanced reasoning about the scientific method
+* Individually tailored education in order to let students  realize their full potentials and discover their creative powers
+
+This is what we do in the "Computational Physics group at UiO":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html"!
+!eblock
+
+
+!split
+===== "Computational Physics group at UiO":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html"; our visions =====
+
+!bslidecell 00 0.6
+!bblock
+Physics students can _pose and solve problems_ that combine _physical insights_ with _mathematical tools_ and now also _computational skills_. This provides a unique combination of applied and theoretical knowledge and skills. These features are invaluable for the development of multi-disciplinary educational and research programs.
+!eblock
+!eslidecell
+
+!bslidecell 01 0.4
+FIGURE: [fig-future/computer_nerd2, width=1600 frac=1]
+!eslidecell
+
+
+!split
+===== A social and scientific learning environment =====
+
+!bblock
+_Goal: Students should realize their full potentials and discover their creative powers_
+
+ * Students come with different dreams, ambitions, aspirations and topics they wish to study, our approach is to tailor the education to all these aspects
+ * Our motto: foster students who are better than their supervisors
+ * Emphasis is on learning and getting new insights
+ * Students and teachers help each other
+ * Students with different backgrounds and needs can thrive socially and scientifically
+ * Not a competitive environment, but a drive and enthusiam for sharing and developing knowledge. This is an important element for the  success of for example multi-disciplinary projects 
+!eblock
+
+
+
+!split
+===== We develop a social and scientific learning environment =====
+
+!bblock
+* We target bachelor, MSc and PhD students
+* Project-oriented work where students develop and mature their own ideas, with an individually tailored approach to each student
+* Office space with desktops to every student and large common room for recreational activities (meals, gaming, movies)
+* Many students collaborate on similar  thesis topics and "publish in top scientific journals":"http://www.dn.no/talent/2014/06/12/Utdannelse/sommervikar-ble-toppforsker"
+!eblock
+
+
+
+!split
+===== Features of the Computational Physics group =====
+!bblock
+* Our students have made significant contributions to  the "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/"  (UiO education prize in 2011) by developing exercises and participating in educational projects at the MN faculty
+* Our students have also developed educational "tools and applications for understanding complicated physical problems":"http://www.mn.uio.no/fysikk/om/aktuelt/aktuelle-saker/2015/realfagsapper.html"
+* A group of PhD students is now developing "new textbooks for Computational Life Science":"https://github.com/CINPLA/ibvcse"
+* 2005-2015: $> 60$ students have finalized their master's theses and 60% have continued with PhD studies
+* Many students don't want to leave the group after finishing their studies
+!eblock
+
+
+
+
+!split
+===== Investing in equipment for research and education =====
+!bslidecell 00 0.2
+!bblock
+Large screens for visualizing and presenting scientific results. And gaming and other social activities. 
+* Here we see two students displaying results from large-scale simulations of molecules in materials
+* With 3D visualization tools one can see structures which where not possible until recently
+!eblock
+!eslidecell
+
+!bslidecell 01 0.8
+FIGURE: [fig-future/visualize.jpg, width=1800 frac=1]
+!eslidecell
+
+
+
+
+!split
+===== Building a local supercomputing cluster from titan.uio.no =====
+!bslidecell 00 0.2
+!bblock Our supercomuting cluster
+When UiO's previous supercomputing cluster (titan.uio.no) was replaced by _abel.uio.no_, we got 200 nodes for free from USIT and built our own supercomputer
+* It helps students run and develop programs for large-scale problems locally
+* Students run and maintain the local supercomputer
+* Used in regular courses as well
+!eblock
+!eslidecell
+
+!bslidecell 01 0.8
+FIGURE: [fig-future/uniforum-0.png, width=1800 frac=1]
+!eslidecell
+
+
+!split
+===== Undergraduate student publishes in PNAS =====
+!bslidecell 00 0.1
+!bblock Participating in research from day one!
+* Bachelor and master students publish in scientific journals 
+* Undergraduate students are exposed to research at early stages, often working with more advanced students
+!eblock
+!eslidecell
+
+!bslidecell 01 0.9
+FIGURE: [fig-future/pnas.png, width=1800 frac=1]
+!eslidecell
+
+
+
+
+
+
+!split
+===== Multiscale modeling is the big open research question in the 21st century =====
+
+!bblock
+* Present and future problems, unlike traditional
+  science and engineering, involve complex systems with many distinct
+  physical processes
+* The wide open research topic of this century, both in industry and at universities, is how to effectively couple processes across different length and energy scales
+* Progress will rely on a *multi-disciplinary* approach
+!eblock
+
+!bblock
+We need to foster candidates with the right
+multi-disciplinary background and computational thinking!
+!eblock
+
+# #ifdef NONE
+
+!split
+===== Examples of large scale simulations =====
+
+!bblock   Fluid dynamical simulations central in air industry.
+FIGURE: [fig-future/fig10.jpg, width=900 frac=0.6]
+!eblock
+
+
+!split
+===== Testing plane wings via massive numerical simulations =====
+
+!bblock
+Fluid dynamical simulations central in air industry, wings tested.
+FIGURE: [fig-future/fig8.jpg, width=900 frac=1.0]
+!eblock
+
+# #endif
+
+!split
+===== The future: A new type of students =====
+
+!bblock
+_Computations will play a central role in almost all aspects of scientific investigations and technological innovation_
+!eblock
+
+!bblock
+_Candidates who are capable of modeling and understanding complicated systems, are in short supply in society_.
+!eblock
+!bblock
+We need students that
+* can handle large and demanding multi-disciplinary  projects. This requires structured thinking and good analytical skills and a thorough understanding of the problems to be solved
+
+This knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
+!eblock
+!bblock
+This will lay the foundation for cross-disciplinary
+educational, research and innovation activities.
+#It will contribute to building a common cross-disciplinary
+#approach to key strategic initiatives, with important examples from fields like
+#*Energy research, Materials science and  Life Science*.
+!eblock
+
+
+# #ifdef NONE
+
+!split
+===== The challenges for the future =====
+!bblock
+We need to educate the next generation of
+science students with the knowledge, skills, and values needed to pose
+and solve current and new scientific, technological and societal
+challenges.
+!eblock
+!bblock
+This will lay the foundation for cross-disciplinary
+educational, research and innovation activities. It will contribute to building a common cross-disciplinary
+approach to key strategic initiatives, with important examples from fields like  *Energy research, Materials science and  Life Science*.
+!eblock
+
+[hpl: Repetitions on this slide, lengthy text - better to just phrase this in the delivery]
+
+# #endif
+
+# #ifdef NONE
+!split
+===== A new type of students =====
+!bblock
+_Candidates who are capable of modeling and understanding complicated
+systems, are in short supply in society_.
+!eblock
+!bblock
+The computational methods and approaches to scientific problems students learn
+when working on their thesis projects are very similar to the methods
+they will use in later stages of their careers.
+* To handle large numerical projects demands structured thinking and good analytical skills and a thorough understanding of the problems to be solved.
+* This knowledge makes the students unique on the labor market, a labor market which in the years to come will experience heavy automatization and massive loss of jobs.
+!eblock
+
+[hpl: True, but at this point time is needed for the new institute... Suggest to remove this slide.]
+
+# # endif
+
+
+!split
+===== Create the Department for Computational Science! =====
+
+!bblock
+UiO's strength in computational science (education and research)
+has the potential to make UiO a top European university
+!eblock
+
+!bblock   How to achieve it
+* Establish  a new center/department with focus on computational science and its applications to a wide range of fields (natural science, medicine, social sciences, humanities, applied research etc)
+* Hire ten young professors (age $< 40$) dedicated to innovative *computational* research and education
+* Establish another ten professorships with  shared positions between the  new department and the discipline-specificdepartment (physics, chemistry, ...)
+!eblock
+
+_The process must start now_ in order not to lose momentum.
+
+
+
+!split
+===== Our takeaway messages =====
+!bblock
+* Computing plays and will play an even more important role in future scientific and technological advances
+* A successful research program cannot be disconnected from education and vice versa
+* An educational and research program which focuses on these issues needs to be established as soon as possible
+* Key goal: students must realize their own potentials and creative power
+!eblock
+
+
+!split
+===== Computational Physics and  the Computing in Science Education project (UiO educational prize in 2011)  =====
+
+!bblock
+The results, insights, ideas and thoughts presented here, would have been impossible without the continuous interaction with colleagues in the "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" project.
+!eblock
+!bslidecell 00 0.5
+!bblock 
+* Hans Petter Langtangen, Informatics and Simula Research Laboratory
+* Knut Mørken, Mathematics
+* Arnt Inge Vistnes, Physics
+* Oyvind Ryan, Mathematics
+* Solveig Kristensen and Annik Myhre, Deans of Education, MN faculty
+* Hanne Sølna, Director of studies MN faculty
+* _And: all our fantastisc students who keep giving us new insights!_
+!eblock
+!eslidecell
+
+!bslidecell 01 0.5
+FIGURE: [fig-future/thegang.jpg, width=1600 frac=1]
+!eslidecell
+
+
+
+
+
+

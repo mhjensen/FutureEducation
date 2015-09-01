@@ -18,10 +18,11 @@ Excellent research mutually depends on excellent education.
 
 !split
 ===== The role of computations, from education to society =====
-#!bpop
 !bblock
 _Computations are central to our 
 basic understanding of nature and to technological advances_.
+UiO's strength in computational science (education and research)
+has the potential to make UiO a top European university.
 !eblock
 
 !bblock Examples
@@ -33,27 +34,23 @@ basic understanding of nature and to technological advances_.
 * _Finance_: assessing risk in the insurance and financial industry
 * and many many more
 !eblock
-#!epop
 
 !split
 ===== Modeling and computations as a way to enhance algorithminc thinking =====
 
-#!bpop
 !bblock
 _Algorithm_ :
 A set of instructions to solve a problem.
-#A finite set of unambiguous instructions that, given some set of initial condit#ions, can be performed in a prescribed sequence to achieve a certain goal.
 !eblock
 
-!bblock Algorithmic thinking:
+!bblock Algorithmic thinking applies to all disciplines. It
 * Enhances instruction-based teaching
 * Introduces research-based teaching  from day one
-* Triggers further insights in math and other disciplines
-* Emphasizes validation and verification of scientific results, and integrates ethics
+* Triggers further insights in scientific problems
+* Emphasizes validation and verification of scientific results, and integrates science ethics in a natural way
 * Ensures good working practices from day one!
 
 !eblock
-#!epop
 
 
 
@@ -84,11 +81,9 @@ All these elements (and many more) aid students in maturing and gaining a better
 !split
 ===== Computing and research-based education =====
 
-#!bpop
 !bblock
 A computational approach allows us to introduce research concepts and engage students in research from *day one*.
 !eblock
-
 
 
 !bblock What should the education contain?
@@ -99,6 +94,7 @@ A computational approach allows us to introduce research concepts and engage stu
 * Visualization, presentation, discussion, interpretation, and critical analysis of results
 * Development of a sound ethical attitude to own and other's work
 * Enhanced reasoning about the scientific method
+* Individually tailored education in order to let students  realize their full potentials and discover their creative powers
 
 This is what we do in the "Computational Physics group at UiO":"http://www.mn.uio.no/fysikk/english/research/groups/computational/index.html"!
 !eblock
@@ -122,13 +118,14 @@ FIGURE: [fig-future/computer_nerd2, width=1600 frac=1]
 ===== A social and scientific learning environment =====
 
 !bblock
-Goal: Students should realize their full potentials and discover their creative powers
+_Goal: Students should realize their full potentials and discover their creative powers_
 
  * Students come with different dreams, ambitions, aspirations and topics they wish to study, our approach is to tailor the education to all these aspects
  * Our motto: foster students who are better than their supervisors
+ * Emphasis is on learning and getting new insights
  * Students and teachers help each other
  * Students with different backgrounds and needs can thrive socially and scientifically
- * Not a competitive environment, but a drive and enthusiam for sharing and developing knowledge
+ * Not a competitive environment, but a drive and enthusiam for sharing and developing knowledge. This is an important element for the  success of for example multi-disciplinary projects 
 !eblock
 
 
@@ -159,24 +156,36 @@ Goal: Students should realize their full potentials and discover their creative 
 
 
 !split
-===== Investing in equipment for students =====
-!bblock Using research funds for visualization tools
-FIGURE: [fig-future/visualize.jpg, width=700 frac=0.7]
-
+===== Investing in equipment for research and education =====
+!bslidecell 00 0.3
+!bblock
+Large screens for visualizing and presenting scientific results. And gaming and other social activities
 !eblock
+!eslidecell
+
+!bslidecell 01 0.7
+FIGURE: [fig-future/visualize.jpg, width=1600 frac=1]
+!eslidecell
+
+
 
 
 !split
 ===== Building a supercomputing cluster =====
-!bblock We got (for free) the old supercomputer at UiO (TITAN)
-FIGURE: [fig-future/uniforum-0.png, width=600 frac=0.7]
-
+!bslidecell 00 0.3
+!bblock
+When the UiO's previous supercomputing cluster (titan.uio.no) was replaced by _abel.uio.no_, we got 200 nodes for free from USIT and built our own supercomputer
 !eblock
+!eslidecell
+
+!bslidecell 01 0.7
+FIGURE: [fig-future/uniforum-0.png, width=1600 frac=1]
+!eslidecell
 
 
 !split
 ===== Undergraduate student publishes in PNAS =====
-!bblock Using research funds for visualization tools
+!bblock 
 FIGURE: [fig-future/pnas.png, width=600 frac=0.7]
 
 !eblock
