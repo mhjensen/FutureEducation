@@ -110,7 +110,7 @@ Physics students can _pose and solve problems_ that combine _physical insights_ 
 !eslidecell
 
 !bslidecell 01 0.6
-FIGURE: [fig-future/md2.png, width=2200 frac=1]
+FIGURE: [fig-future/computer_nerd2.jpg, width=2200 frac=1]
 !eslidecell
 
 
@@ -178,6 +178,7 @@ FIGURE: [fig-future/visualize.jpg, width=1800 frac=1]
 !bblock Our supercomuting cluster
 When UiO's previous supercomputing cluster (titan.uio.no) was replaced by _abel.uio.no_, we got 200 nodes for free from USIT and built our own supercomputer. The value in 2006 of all the equipment was close to eight MNOK.
 * It helps students run and develop programs for large-scale problems locally
+* A successful program can then run on larger national and international supercomputers
 * Students run and maintain the local supercomputer
 * Used in regular courses as well
 !eblock
@@ -195,6 +196,8 @@ FIGURE: [fig-future/uniforum-0.png, width=1900 frac=1]
 * Bachelor and master students publish in scientific journals 
 * Undergraduate students are exposed to research at early stages, often working with more advanced students
 * Students are exposed to all stages of the scientific process
+* Projects are tailored to the interests of the students
+* Focus on insights and sharing knowledge
 !eblock
 !eslidecell
 
