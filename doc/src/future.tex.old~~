@@ -315,9 +315,14 @@ This is what we do in the \href{{http://www.mn.uio.no/fysikk/english/research/gr
 
 % --- begin paragraph admon ---
 \paragraph{}
-Physics students can \textbf{pose and solve problems} that combine \textbf{physical insights} with \textbf{mathematical tools} and now also \textbf{computational skills}.
-Essential for multi-disciplinary programs.
+\begin{itemize}
+\item Students  \textbf{pose and solve problems} that combine \textbf{physical insights} with \textbf{mathematical tools} and now also \textbf{computational skills}.
+
+\item Essential for multi-disciplinary programs.
 % This provides a unique combination of applied and theoretical knowledge and skills. These features are invaluable for the development of multi-disciplinary educational and research programs.
+\end{itemize}
+
+\noindent
 % --- end paragraph admon ---
 
 
