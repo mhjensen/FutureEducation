@@ -20,6 +20,11 @@ final,                   % or draft (marks overfull hboxes, figures with paths)
 
 \usepackage{graphicx}
 
+% Movies are handled by the href package
+\newenvironment{doconce:movie}{}{}
+\newcounter{doconce:movie:counter}
+
+
 \usepackage[T1]{fontenc}
 %\usepackage[latin1]{inputenc}
 \usepackage{ucs}
@@ -326,6 +331,20 @@ Essential for multi-disciplinary programs.
 
 
 % !eslidecell
+
+
+% !split
+\subsection*{Student dreams}
+
+
+\begin{doconce:movie}
+\refstepcounter{doconce:movie:counter}
+\begin{center}
+% link to external viewer
+\href{run:mov-future/movtrimmed2.m4v}{\nolinkurl{mov-future/movtrimmed2.m4v}}
+\end{center}
+\end{doconce:movie}
+
 
 
 % !split
