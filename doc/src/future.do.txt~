@@ -12,7 +12,7 @@ DATE: September 2 2015,
 * Future challenges and directions
 !eblock
 !bblock Takeaway message
-Excellent research mutually depends on excellent education.
+Excellent research depends on excellent education --- and vice versa!
 #A successful research program cannot be disconnected from education and vice versa
 !eblock
 
@@ -106,7 +106,9 @@ This is what we do in the "Computational Physics group at UiO":"http://www.mn.ui
 
 !bslidecell 00 0.4
 !bblock
-Physics students can _pose and solve problems_ that combine _physical insights_ with _mathematical tools_ and now also _computational skills_. This provides a unique combination of applied and theoretical knowledge and skills. These features are invaluable for the development of multi-disciplinary educational and research programs.
+Physics students can _pose and solve problems_ that combine _physical insights_ with _mathematical tools_ and now also _computational skills_.
+Essential for multi-disciplinary programs.
+#This provides a unique combination of applied and theoretical knowledge and skills. These features are invaluable for the development of multi-disciplinary educational and research programs.
 !eblock
 !eslidecell
 
@@ -126,7 +128,8 @@ _Goal: Students should realize their full potentials and discover their creative
  * Emphasis is on learning and getting new insights
  * Students and teachers help each other
  * Students with different backgrounds and needs can thrive socially and scientifically
- * Not a competitive environment, but a drive and enthusiam for sharing and developing knowledge. This is an important element for the  success of for example multi-disciplinary projects 
+ * Non-competitive and generous environment
+#Not a competitive environment, but a drive and enthusiam for sharing and developing knowledge. This is an important element for the  success of for example multi-disciplinary projects 
 !eblock
 
 
@@ -206,18 +209,32 @@ FIGURE: [fig-future/uniforum-0.png, width=2100 frac=1]
 FIGURE: [fig-future/pnas.png, width=1800 frac=1]
 !eslidecell
 
+!split
+===== The computational revolution in science in society =====
 
+!bblock
+* Computing will affect all aspects of society - and should also play a key role in research and education in our society
 
+* Possible large shifts with the advent of automation
+!eblock
 
+!bblock
+* Present and future problems involve complex systems
+* Require a multi-disciplinary approach
+* Collaboration and team work using computational tools
+!eblock
+
+!bblock
+* To stay competitive as a society we need computing competence integrated in all fields – for both research and education!
+* We need candidates with the right multi-disciplinary background and skills in computational thinking
+!eblock
 
 
 !split
 ===== Multiscale modeling is the big open research question in the 21st century =====
 
 !bblock
-* Present and future problems, unlike traditional
-  science and engineering, involve complex systems with many distinct
-  physical processes
+* Present and future problems, unlike traditional science and engineering, involve complex systems with many distinct physical processes
 * The wide open research topic of this century, both in industry and at universities, is how to effectively couple processes across different length and energy scales
 * Progress will rely on a *multi-disciplinary* approach
 !eblock
@@ -247,6 +264,7 @@ FIGURE: [fig-future/fig8.jpg, width=900 frac=1.0]
 
 # #endif
 
+# #ifdef NONE
 !split
 ===== The future: A new type of students =====
 
@@ -270,7 +288,7 @@ educational, research and innovation activities.
 #approach to key strategic initiatives, with important examples from fields like
 #*Energy research, Materials science and  Life Science*.
 !eblock
-
+# #endif
 
 # #ifdef NONE
 
@@ -313,18 +331,21 @@ they will use in later stages of their careers.
 
 
 !split
-===== Create the Department for Computational Science! =====
+===== UiO has a unique opportunity to become a Leading European University =====
 
 !bblock
 UiO's strength in computational science (education and research)
 has the potential to make UiO a top European university
+
+* We must educate the competence needed
+* We are in a unique position to do so --- across all fields!
 !eblock
 
-!bblock   How to achieve it
+!bblock   How to achieve this
 * Establish  a new center/department with focus on computational science and its applications to a wide range of fields (natural science, medicine, social sciences, humanities, applied research etc)
 * Hire ten young professors (age $< 40$) dedicated to innovative *computational* research and education
-* Establish another ten professorships with  shared positions between the  new department and the discipline-specificdepartment (physics, chemistry, ...)
-* Establish  best practices for computational and educational innovations, with a particular focus on  new learning material 
+* Establish another ten professorships with  shared positions between the  new department and the discipline-specific department
+* Establish  best practices for computational and educational innovations, with a particular focus on  new learning material and real incentives
 !eblock
 
 _The process must start now_ in order not to lose momentum.
@@ -334,10 +355,10 @@ _The process must start now_ in order not to lose momentum.
 !split
 ===== Our takeaway messages =====
 !bblock
-* Computing plays and will play an even more important role in future scientific and technological advances
-* A successful research program cannot be disconnected from education and vice versa
-* An educational and research program which focuses on these issues needs to be established as soon as possible
-* Key goal: students must realize their own potentials and creative power
+* Computing plays and will play an even more important role in society --– and this must be reflected in research and education
+* Our program builds in this and allows students to realize their potential and unleash their creativity
+* Social and scientific activities in harmony
+* UiO is in a unique position to develop a leading research and educational activity --- if we act now
 !eblock
 
 
@@ -345,10 +366,10 @@ _The process must start now_ in order not to lose momentum.
 ===== Computational Physics and  the Computing in Science Education project (UiO educational prize in 2011)  =====
 
 !bblock
-The results, insights, ideas and thoughts presented here, would have been impossible without the continuous interaction with colleagues in the "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" project _and all our fantastisc students who keep giving us new insights!_
+The results, insights, ideas and thoughts presented here, would have been impossible without the infinitely many  interactions with colleagues in the "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" project _and all our fantastisc students who continuously give us new insights! Thanks_
 !eblock
 !bslidecell 00 0.4
-!bblock The CSE gang 
+!bblock
 * Hans Petter Langtangen
 * Knut Mørken
 * Arnt Inge Vistnes
