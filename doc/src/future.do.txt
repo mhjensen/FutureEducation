@@ -213,8 +213,7 @@ FIGURE: [fig-future/pnas.png, width=1800 frac=1]
 ===== The computational revolution in science in society =====
 
 !bblock
-* Computing will affect all aspects of society - and should also play a key role in research and education in our society
-
+* Computing will affect all aspects of society - and should also play a key role in research and education in our society
 * Possible large shifts with the advent of automation
 !eblock
 
@@ -231,7 +230,7 @@ FIGURE: [fig-future/pnas.png, width=1800 frac=1]
 
 
 !split
-=====Multiscale modeling is the big open research question in the 21st century =====
+===== Multiscale modeling is the big open research question in the 21st century =====
 
 !bblock
 * Present and future problems, unlike traditional science and engineering, involve complex systems with many distinct physical processes
