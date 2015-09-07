@@ -120,7 +120,7 @@ FIGURE: [fig-future/computer_nerd2.jpg, width=2200 frac=1]
 !split
 ===== Student dreams =====
 
-MOVIE: [mov-future/movtrimmed2.m4v, width=1800 frac=1]
+MOVIE: [mov-future/movtrimmed2.m4v, frac=1]
 
 
 !split
