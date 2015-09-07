@@ -106,8 +106,8 @@ This is what we do in the "Computational Physics group at UiO":"http://www.mn.ui
 
 !bslidecell 00 0.4
 !bblock
-Physics students can _pose and solve problems_ that combine _physical insights_ with _mathematical tools_ and now also _computational skills_.
-Essential for multi-disciplinary programs.
+* Students  _pose and solve problems_ that combine _physical insights_ with _mathematical tools_ and now also _computational skills_.
+* Essential for multi-disciplinary programs.
 #This provides a unique combination of applied and theoretical knowledge and skills. These features are invaluable for the development of multi-disciplinary educational and research programs.
 !eblock
 !eslidecell
@@ -120,7 +120,7 @@ FIGURE: [fig-future/computer_nerd2.jpg, width=2200 frac=1]
 !split
 ===== Student dreams =====
 
-MOVIE: [mov-future/movtrimmed2.m4v, width=1800 frac=1]
+MOVIE: [mov-future/movtrimmed2.m4v frac=1]
 
 
 !split
